@@ -1,25 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\farem\\Desktop\\proyecto2.prueba\\project.lib\\capa datos\\capa_datos.csproj": {}
+    "C:\\Users\\Nery\\Desktop\\OWO\\GRUPO8-LibreriaLaTorre\\project.lib\\capa datos\\capa_datos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\farem\\Desktop\\proyecto2.prueba\\project.lib\\capa datos\\capa_datos.csproj": {
+    "C:\\Users\\Nery\\Desktop\\OWO\\GRUPO8-LibreriaLaTorre\\project.lib\\capa datos\\capa_datos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\farem\\Desktop\\proyecto2.prueba\\project.lib\\capa datos\\capa_datos.csproj",
+        "projectUniqueName": "C:\\Users\\Nery\\Desktop\\OWO\\GRUPO8-LibreriaLaTorre\\project.lib\\capa datos\\capa_datos.csproj",
         "projectName": "capa_datos",
-        "projectPath": "C:\\Users\\farem\\Desktop\\proyecto2.prueba\\project.lib\\capa datos\\capa_datos.csproj",
-        "packagesPath": "C:\\Users\\farem\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\farem\\Desktop\\proyecto2.prueba\\project.lib\\capa datos\\obj\\",
+        "projectPath": "C:\\Users\\Nery\\Desktop\\OWO\\GRUPO8-LibreriaLaTorre\\project.lib\\capa datos\\capa_datos.csproj",
+        "packagesPath": "C:\\Users\\Nery\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Nery\\Desktop\\OWO\\GRUPO8-LibreriaLaTorre\\project.lib\\capa datos\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\farem\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\Nery\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -64,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

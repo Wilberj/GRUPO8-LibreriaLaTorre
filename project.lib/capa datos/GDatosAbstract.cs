@@ -9,19 +9,23 @@ namespace CAPA_DATOS
 {
     public abstract class GDatosAbstract
     {
-        protected IDbConnection SQLMCon;
+        protected IDbConnection SQLMcon;
+
         protected abstract IDbConnection CrearConexion(string cadena);
-        protected abstract IDbCommand ComandoSql(string comandoSql, IDbConnection connection);
+
+        protected abstract IDbCommand CommandSql(string comandoSql, IDbConnection connection);
+
         protected abstract IDataAdapter CrearDataAdapterSql(string comandoSql, IDbConnection connection);
-        protected abstract IDataAdapter CrearDataAdapterSql(IDbCommand comandoSql);
-        public object ExcuteSqlQuery(string strQuery)
+
+        public object ExecuteSqlQuery(string strQuery)
         {
             try
-            {              
-                SQLMCon.Open();
-                var com = ComandoSql(strQuery, SQLMCon);
+            {
+                SQLMcon.Open();
+                var com = CommandSql(strQuery, SQLMcon);
                 var scalar = com.ExecuteScalar();
-                SQLMCon.Close();
+                SQLMcon.Close();
+
                 if (scalar == (object)DBNull.Value)
                 {
                     return true;
@@ -30,54 +34,152 @@ namespace CAPA_DATOS
                 {
                     return Convert.ToInt32(scalar);
                 }
+
+
+
             }
             catch (Exception)
             {
+
                 throw;
             }
         }
-        public Object InsertObject(string TableName, Object Inst)
+        public object ExecuteStoreProc(string strQuery)
         {
             try
             {
-                string ColumnNames = "";
-                string Values = "";
+                DataSet Ds = new DataSet();
+
+                SQLMcon.Open();
+                var com = CommandSql(strQuery, SQLMcon);
+
+                SqlDataAdapter Da = new SqlDataAdapter((SqlCommand)com);
+
+                Da.Fill(Ds);
+
+                SQLMcon.Close();
+
+                if (Ds != null)
+                {
+                    return int.Parse(Ds.Tables[0].Rows[0][0].ToString());
+                }
+                else
+                {
+                    return 0;
+                }
+
+
+            }
+            catch (Exception)
+            {
+
+                throw;
+            }
+        }
+
+        public Object InserObject(string TableName, Object Inst)
+        {
+            try
+            {
+                var Values = "";
                 Type _type = Inst.GetType();
                 PropertyInfo[] lst = _type.GetProperties();
-                foreach (PropertyInfo oProperty in lst) {
+
+                foreach (PropertyInfo oProperty in lst)
+                {
                     string AtributeName = oProperty.Name;
                     var AtributeValue = oProperty.GetValue(Inst);
-                    if (AtributeValue == null)
+
+                    if (AtributeValue.GetType() == typeof(string) )
                     {
-                        continue;
-                    }
-                    else if (AtributeValue.GetType() == typeof(string))
-                    {
-                        ColumnNames = ColumnNames + AtributeName.ToString() + ",";
                         Values = Values + "'" + AtributeValue.ToString() + "',";
                     }
+                    else if (AtributeValue.GetType() == typeof(decimal) || AtributeValue.GetType() == typeof(double))
+                    {
+                        Values = Values + AtributeValue + ",";
+                    }
+
+                    else if (AtributeValue.GetType() == typeof(bool))
+                    {
+                        Values = Values + ((bool)AtributeValue == true ? 1 : 0) + ",";
+                    }
+
                     else if (AtributeValue.GetType() == typeof(DateTime))
                     {
-                        ColumnNames = ColumnNames + AtributeName.ToString() + ",";
                         Values = Values + "'" + ((DateTime)AtributeValue).ToString("yyyy/MM/dd") + "',";
                     }
                     else
                     {
                         if ((Int32)AtributeValue != -1)
                         {
-                            ColumnNames = ColumnNames + AtributeName.ToString() + ",";
                             Values = Values + AtributeValue.ToString() + ",";
                         }
                     }
                 }
-                ColumnNames = ColumnNames.TrimEnd(',');
                 Values = Values.TrimEnd(',');
-                string strQuery = "INSERT INTO " + TableName 
-                    + "("+ ColumnNames + ") VALUES(" 
-                    + Values + ") SELECT SCOPE_IDENTITY()";                
-                return ExcuteSqlQuery(strQuery);
+                string StrQuery = "INSERT INTO " + TableName + " VALUES (" + Values + ") SELECT SCOPE_IDENTITY()";
+
+                return ExecuteSqlQuery(StrQuery);
             }
-            catch (Exception)
+            catch (Exception ex)
+            {
+                throw;
+            }
+        }
+
+
+        public Object CallStoreProcedure(string SPName, Object Inst)
+        {
+            try
+            {
+                var Values = "";
+                var NamesFields = string.Empty;
+                Type _type = Inst.GetType();
+                PropertyInfo[] lst = _type.GetProperties();
+
+                foreach (PropertyInfo oProperty in lst)
+                {
+                    string AtributeName = oProperty.Name;
+                    var AtributeValue = oProperty.GetValue(Inst);
+
+                    if (AtributeValue.GetType() == typeof(string))
+                    {
+                        Values = Values + "@"+AtributeName +" = " + "'" + AtributeValue.ToString() + "',";
+                    }
+                    else if (AtributeValue.GetType() == typeof(decimal) || AtributeValue.GetType() == typeof(double))
+                    {
+                        Values = Values + "@" + AtributeName + " = " + AtributeValue + ",";
+                    }
+
+                    else if (AtributeValue.GetType() == typeof(bool))
+                    {
+                        Values = Values + "@" + AtributeName + " = " + ((bool)AtributeValue == true ? 1 : 0) + ",";
+                    }
+
+                    else if (AtributeValue.GetType() == typeof(DateTime))
+                    {
+                        Values = Values + "@" + AtributeName + " = " + "'" + ((DateTime)AtributeValue).ToString("yyyy/MM/dd") + "',";
+                    }
+                    else
+                    {
+                        if ((Int32)AtributeValue != -1)
+                        {
+                            Values = Values + "@" + AtributeName + " = " + AtributeValue.ToString() + ",";
+                        }
+                        else
+                        {
+                            Values = Values + "@" + AtributeName + " = " + AtributeValue.ToString() + ",";
+                        }
+                    }
+
+                }
+                
+                Values = Values.TrimEnd(',');
+                string StrQuery = "Exec " + SPName + " " + Values;
+
+                return ExecuteStoreProc(StrQuery);
+            }
+            catch (Exception ex)
             {
                 throw;
             }
@@ -86,7 +188,7 @@ namespace CAPA_DATOS
         {
             try
             {
-                string Values = "";
+                var Values = "";
                 Type _type = Inst.GetType();
                 PropertyInfo[] lst = _type.GetProperties();
                 PropertyInfo prop = lst[0];
@@ -94,97 +196,95 @@ namespace CAPA_DATOS
                 {
                     string AtributeName = oProperty.Name;
                     var AtributeValue = oProperty.GetValue(Inst);
+
                     if (AtributeName != IdObject)
                     {
-                        if (AtributeValue == null)
+                        if (AtributeValue.GetType() == typeof(string) || AtributeValue.GetType() == typeof(decimal))
                         {
-                            continue;
+                            Values = Values + AtributeName + "='" + AtributeValue.ToString() + "',";
                         }
-                        else if(AtributeValue.GetType() == typeof(string) || AtributeValue.GetType() == typeof(DateTime))
+                        else if (AtributeValue.GetType() == typeof(DateTime))
                         {
-                            Values = Values + AtributeName + "= '" + AtributeValue.ToString() + "',";
+                            Values = Values + AtributeName + "='" + ((DateTime)AtributeValue).ToString("yyyy/MM/dd") + "',";
                         }
                         else
                         {
                             Values = Values + AtributeName + "=" + AtributeValue.ToString() + ",";
                         }
-                    } else
+                    }
+                    else
                     {
                         prop = oProperty;
                     }
-                   
-                }              
+
+
+                }
                 Values = Values.TrimEnd(',');
-                string strQuery = "UPDATE  " + 
-                    TableName + " SET " +
-                    Values + " WHERE " + IdObject + " = " + prop.GetValue(Inst).ToString();
-                return ExcuteSqlQuery(strQuery);
+                string StrQuery = "UPDATE " + TableName + " SET " + Values + " WHERE " + IdObject + "=" + prop.GetValue(Inst).ToString();
+
+                return ExecuteSqlQuery(StrQuery);
+            }
+            catch (Exception)
+            {
+
+                throw;
+            }
+        }
+
+        public Object DeleteObject(string TableName, string IdObject, object value)
+        {
+            try
+            {
+
+                string StrQuery = "UPDATE " + TableName + " SET Estado = 0 WHERE " + IdObject + " = " + value;
+
+                return ExecuteSqlQuery(StrQuery);
             }
             catch (Exception)
             {
                 throw;
             }
         }
+
         public DataTable TraerDatosSQL(string queryString)
         {
-            DataSet ObjDS = new DataSet();
-            CrearDataAdapterSql(queryString, SQLMCon).Fill(ObjDS);
-            return ObjDS.Tables[0].Copy();
+            DataSet ObjDs = new DataSet();
+            CrearDataAdapterSql(queryString, SQLMcon).Fill(ObjDs);
+            return ObjDs.Tables[0].Copy();
         }
-        public DataTable TraerDatosSQL(IDbCommand Command)
-        {
-            DataSet ObjDS = new DataSet();
-            CrearDataAdapterSql(Command).Fill(ObjDS);
-            return ObjDS.Tables[0].Copy();
-        }
-        public Object TakeList(string TableName, Object Inst, string? Condicion)
+
+        public Object TakeList(string TableName, Object Inst, string? condition)
         {
             try
             {
                 string CondicionString = "";
-                if (Condicion != null)
+                if (condition != null)
                 {
-                    CondicionString = " WHERE " + Condicion;
+                    CondicionString = " Where " + condition;
                 }
-                string queryString = "SELECT * FROM " + TableName + CondicionString;
-                DataTable Table = TraerDatosSQL(queryString);
-                List<Object> ListD = ConvertDataTable(Table, Inst);
-                return ListD;
-            }
-            catch (Exception)
-            {
-                throw;
-            }
-        }
-        public Object TakeListWithProcedure(string ProcedureName, Object Inst, List<Object> Params)
-        {
-            try
-            {
-                SQLMCon.Open();
-                var Command = ComandoSql(ProcedureName, SQLMCon);
-                Command.CommandType = CommandType.StoredProcedure;
-                SqlCommandBuilder.DeriveParameters((SqlCommand)Command);
-                SQLMCon.Close();
-                if (Params.Count != 0)
+                else
                 {
-                    int i = 0;
-                    foreach (var param in Params)
-                    {
-                        var p = (SqlParameter)Command.Parameters[i+1];
-                        p.Value = param;
-                        i++;
-                    }
-                }               
-                DataTable Table = TraerDatosSQL(Command);
-                List<Object> ListD = ConvertDataTable(Table, Inst);
-                return ListD;
+                    CondicionString = " Where Estado= 1";
+                }
+
+                string queryString = "Select * from " + TableName + CondicionString;
+
+                DataTable Table = TraerDatosSQL(queryString);
+
+                List<Object> listDb = ConvertDatatable(Table, Inst);
+
+                return listDb;
+
             }
             catch (Exception)
             {
+
                 throw;
             }
         }
-        private static List<Object> ConvertDataTable(DataTable dt, Object Inst) {
+
+        private static List<Object> ConvertDatatable(DataTable dt, Object Inst)
+        {
             List<Object> data = new List<Object>();
             foreach (DataRow row in dt.Rows)
             {
@@ -193,6 +293,7 @@ namespace CAPA_DATOS
             }
             return data;
         }
+
         private static Object GetItem(DataRow dr, Object Inst)
         {
             Type temp = Inst.GetType();
@@ -202,12 +303,18 @@ namespace CAPA_DATOS
                 foreach (PropertyInfo pro in temp.GetProperties())
                 {
                     if (pro.Name == column.ColumnName)
-                        pro.SetValue(obj, dr[column.ColumnName], null);
+                    {
+                        pro.SetValue(obj, dr[column.ColumnName]);
+                    }
                     else
+                    {
                         continue;
+                    }
                 }
             }
+
             return obj;
         }
-     }
+
+    }
 }
