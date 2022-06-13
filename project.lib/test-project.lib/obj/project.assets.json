@@ -6725,9 +6725,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nery\\Desktop\\OWO\\GRUPO8-LibreriaLaTorre\\project.lib\\test-project.lib\\test-project.lib.csproj",
-      "projectName": "test-project.lib",
-      "projectPath": "C:\\Users\\Nery\\Desktop\\OWO\\GRUPO8-LibreriaLaTorre\\project.lib\\test-project.lib\\test-project.lib.csproj",
+      "projectUniqueName": "C:\\Users\\Nery\\Desktop\\OWO\\GRUPO8-LibreriaLaTorre\\project.lib\\test-project.lib\\Capa_UI.csproj",
+      "projectName": "Capa_UI",
+      "projectPath": "C:\\Users\\Nery\\Desktop\\OWO\\GRUPO8-LibreriaLaTorre\\project.lib\\test-project.lib\\Capa_UI.csproj",
       "packagesPath": "C:\\Users\\Nery\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Nery\\Desktop\\OWO\\GRUPO8-LibreriaLaTorre\\project.lib\\test-project.lib\\obj\\",
       "projectStyle": "PackageReference",

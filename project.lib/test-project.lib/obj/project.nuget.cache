@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OVSLN1xE+7vTekiHn/IvYg+t2tw8TAVZWGGWYeQJVA96iUCItv5k65cu2eaLBtC4cHs20LL5ScKvF+ddw6bQWg==",
+  "dgSpecHash": "CeWJKHH80QzNenvcWkfNWGDU3RNm6LXunN+7NX9QLjtAnJ0p+8gTYOgWw3ev6xPgNcAEYwrhz4m/yRHw4PPwVQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Nery\\Desktop\\OWO\\GRUPO8-LibreriaLaTorre\\project.lib\\test-project.lib\\test-project.lib.csproj",
+  "projectFilePath": "C:\\Users\\Nery\\Desktop\\OWO\\GRUPO8-LibreriaLaTorre\\project.lib\\test-project.lib\\Capa_UI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Nery\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Nery\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\5.0.3\\microsoft.aspnetcore.cryptography.internal.5.0.3.nupkg.sha512",
