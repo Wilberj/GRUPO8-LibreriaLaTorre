@@ -30,6 +30,9 @@ namespace CAPA_DATOS
             return da;
         }
 
-       
+        public object InserObject(object tableName, global::capa_negocio.TabCompra inst)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

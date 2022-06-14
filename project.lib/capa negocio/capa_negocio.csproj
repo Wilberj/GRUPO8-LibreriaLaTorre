@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\capa datos\capa_datos.csproj" />
+    <ProjectReference Include="..\capa datos\CAPA_DATOS.csproj" />
   </ItemGroup>
 
 </Project>

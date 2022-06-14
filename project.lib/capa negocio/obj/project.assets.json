@@ -131,17 +131,17 @@
           }
         }
       },
-      "capa_datos/1.0.0": {
+      "CAPA_DATOS/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
           "System.Data.SqlClient": "4.8.3"
         },
         "compile": {
-          "bin/placeholder/capa_datos.dll": {}
+          "bin/placeholder/CAPA_DATOS.dll": {}
         },
         "runtime": {
-          "bin/placeholder/capa_datos.dll": {}
+          "bin/placeholder/CAPA_DATOS.dll": {}
         }
       }
     }
@@ -460,15 +460,15 @@
         "version.txt"
       ]
     },
-    "capa_datos/1.0.0": {
+    "CAPA_DATOS/1.0.0": {
       "type": "project",
-      "path": "../capa datos/capa_datos.csproj",
-      "msbuildProject": "../capa datos/capa_datos.csproj"
+      "path": "../capa datos/CAPA_DATOS.csproj",
+      "msbuildProject": "../capa datos/CAPA_DATOS.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "capa_datos >= 1.0.0"
+      "CAPA_DATOS >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -477,9 +477,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nery\\Desktop\\OWO\\GRUPO8-LibreriaLaTorre\\project.lib\\capa negocio\\capa_negocio.csproj",
-      "projectName": "capa_negocio",
-      "projectPath": "C:\\Users\\Nery\\Desktop\\OWO\\GRUPO8-LibreriaLaTorre\\project.lib\\capa negocio\\capa_negocio.csproj",
+      "projectUniqueName": "C:\\Users\\Nery\\Desktop\\OWO\\GRUPO8-LibreriaLaTorre\\project.lib\\capa negocio\\CAPA_NEGOCIO.csproj",
+      "projectName": "CAPA_NEGOCIO",
+      "projectPath": "C:\\Users\\Nery\\Desktop\\OWO\\GRUPO8-LibreriaLaTorre\\project.lib\\capa negocio\\CAPA_NEGOCIO.csproj",
       "packagesPath": "C:\\Users\\Nery\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Nery\\Desktop\\OWO\\GRUPO8-LibreriaLaTorre\\project.lib\\capa negocio\\obj\\",
       "projectStyle": "PackageReference",
@@ -498,8 +498,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Nery\\Desktop\\OWO\\GRUPO8-LibreriaLaTorre\\project.lib\\capa datos\\capa_datos.csproj": {
-              "projectPath": "C:\\Users\\Nery\\Desktop\\OWO\\GRUPO8-LibreriaLaTorre\\project.lib\\capa datos\\capa_datos.csproj"
+            "C:\\Users\\Nery\\Desktop\\OWO\\GRUPO8-LibreriaLaTorre\\project.lib\\capa datos\\CAPA_DATOS.csproj": {
+              "projectPath": "C:\\Users\\Nery\\Desktop\\OWO\\GRUPO8-LibreriaLaTorre\\project.lib\\capa datos\\CAPA_DATOS.csproj"
             }
           }
         }

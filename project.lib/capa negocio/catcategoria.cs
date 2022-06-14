@@ -7,14 +7,14 @@ using CAPA_DATOS;
 
 namespace capa_negocio
 {
-    internal class catcategoria
+    internal class CatCategoria
     {
         public string TableName = "Categoria";
         int IdCategoria { get; set; }
-        bool Estado { get; set; }
-        string Nombre { get; set; }
+        public bool Estado { get; set; }
+        public string Nombre { get; set; }
 
-        public object Save(catcategoria Inst)
+        public object Save(CatCategoria Inst)
         {
             try
             {
@@ -23,7 +23,8 @@ namespace capa_negocio
                 if (Inst.IdCategoria == -1)
                 {
                     return SqlADOConexion.SQLM.InserObject(TableName, Inst);
-                }                else
+                }               
+                else
                 {
                     return SqlADOConexion.SQLM.UpdateObject(TableName, Inst, "idCategoria");
                 }
@@ -33,9 +34,27 @@ namespace capa_negocio
             {
                 throw;
             }
-
-
-
         }
+        public object Delete(CatCategoria Inst)
+        {
+            try
+            {
+                SqlADOConexion.IniciarConexion("sa", "1234");
+                
+                if(Inst.IdCategoria < 0)
+                {
+                    throw new Exception("Especifique IdProducto");
+                }
+                else
+                {
+                    return SqlADOConexion.SQLM.DeleteObject(TableName, "IdCategoria", Inst.IdCategoria);
+                }
+            }
+            catch (Exception ex)
+            {
+                throw;
+            }
+        }
+        //METODO GET
     }
 }

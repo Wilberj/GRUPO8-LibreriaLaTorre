@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31019.35
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Capa_UI", "test-project.lib\Capa_UI.csproj", "{DC7E5B36-DFA0-4C51-A14D-C9942820BFD1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Capa_UI", "test-project.lib\Capa_UI.csproj", "{DC7E5B36-DFA0-4C51-A14D-C9942820BFD1}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "capa_datos", "capa datos\capa_datos.csproj", "{A5A6CA0C-B185-41CA-89B3-E4ACD37CF2E8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CAPA_DATOS", "capa datos\CAPA_DATOS.csproj", "{A5A6CA0C-B185-41CA-89B3-E4ACD37CF2E8}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "capa_negocio", "capa negocio\capa_negocio.csproj", "{10C366E1-2522-4903-AF9E-82CA88DF3DC4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CAPA_NEGOCIO", "capa negocio\CAPA_NEGOCIO.csproj", "{10C366E1-2522-4903-AF9E-82CA88DF3DC4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

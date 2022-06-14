@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Nery\\Desktop\\OWO\\GRUPO8-LibreriaLaTorre\\project.lib\\capa datos\\capa_datos.csproj": {}
+    "C:\\Users\\Nery\\Desktop\\OWO\\GRUPO8-LibreriaLaTorre\\project.lib\\capa datos\\CAPA_DATOS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nery\\Desktop\\OWO\\GRUPO8-LibreriaLaTorre\\project.lib\\capa datos\\capa_datos.csproj": {
+    "C:\\Users\\Nery\\Desktop\\OWO\\GRUPO8-LibreriaLaTorre\\project.lib\\capa datos\\CAPA_DATOS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nery\\Desktop\\OWO\\GRUPO8-LibreriaLaTorre\\project.lib\\capa datos\\capa_datos.csproj",
-        "projectName": "capa_datos",
-        "projectPath": "C:\\Users\\Nery\\Desktop\\OWO\\GRUPO8-LibreriaLaTorre\\project.lib\\capa datos\\capa_datos.csproj",
+        "projectUniqueName": "C:\\Users\\Nery\\Desktop\\OWO\\GRUPO8-LibreriaLaTorre\\project.lib\\capa datos\\CAPA_DATOS.csproj",
+        "projectName": "CAPA_DATOS",
+        "projectPath": "C:\\Users\\Nery\\Desktop\\OWO\\GRUPO8-LibreriaLaTorre\\project.lib\\capa datos\\CAPA_DATOS.csproj",
         "packagesPath": "C:\\Users\\Nery\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Nery\\Desktop\\OWO\\GRUPO8-LibreriaLaTorre\\project.lib\\capa datos\\obj\\",
         "projectStyle": "PackageReference",

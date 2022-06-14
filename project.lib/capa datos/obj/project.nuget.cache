@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "owPLNac+ZUiAIMdsPPwGXlTNfPufCwJClj4OF/WymKUtWVqXdGFOxANH22LJLFXg3k5PB/jsPWsB6WUZN80RkQ==",
+  "dgSpecHash": "LT43/a0ZSZT70Tl9ld6p6Ee+0lbrlwc9hM3QCF9Yyd1ZcIJiJSuU4TKWfKtYM8Qruu7KQ4OhArabt/df8jH/dw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Nery\\Desktop\\OWO\\GRUPO8-LibreriaLaTorre\\project.lib\\capa datos\\capa_datos.csproj",
+  "projectFilePath": "C:\\Users\\Nery\\Desktop\\OWO\\GRUPO8-LibreriaLaTorre\\project.lib\\capa datos\\CAPA_DATOS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Nery\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Nery\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
