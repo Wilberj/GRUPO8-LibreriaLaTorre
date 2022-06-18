@@ -37,6 +37,38 @@ namespace capa_negocio
             {
                 throw ex;
             }
-                    }
+        }
+        public object Delete(TabVenta Inst)
+        {
+            try
+            {
+                SqlADOConexion.IniciarConexion("sa", "1234");
+
+                if (Inst.IdVenta < 0)
+                {
+                    throw new Exception("Especifique IdVenta");
+                }
+                else
+                {
+                    return SqlADOConexion.SQLM.DeleteObject(TableName, "IdVenta", Inst.IdVenta);
+                }
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+        }
+        public object Get(TabVenta Inst)
+        {
+            try
+            {
+                SqlADOConexion.IniciarConexion("sa", "1234");
+                return SqlADOConexion.SQLM.TakeList(TableName, Inst, null);
+            }
+            catch (Exception)
+            {
+                throw;
+            }
+        }
     }
 }

@@ -30,9 +30,9 @@ namespace capa_negocio
                 }
 
             }
-            catch (Exception e)
+            catch (Exception ex)
             {
-                throw;
+                throw ex;
             }
         }
         public object Delete(CatCategoria Inst)
@@ -43,7 +43,7 @@ namespace capa_negocio
                 
                 if(Inst.IdCategoria < 0)
                 {
-                    throw new Exception("Especifique IdProducto");
+                    throw new Exception("Especifique IdCategoria");
                 }
                 else
                 {
@@ -52,9 +52,20 @@ namespace capa_negocio
             }
             catch (Exception ex)
             {
+                throw ex;
+            }
+        }
+        public object Get(CatCategoria Inst)
+        {
+            try
+            {
+                SqlADOConexion.IniciarConexion("sa", "1234");
+                return SqlADOConexion.SQLM.TakeList(TableName, Inst, null);
+            }
+            catch (Exception)
+            {
                 throw;
             }
         }
-        //METODO GET
     }
 }

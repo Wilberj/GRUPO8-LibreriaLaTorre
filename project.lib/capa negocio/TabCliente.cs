@@ -7,7 +7,7 @@ namespace capa_negocio
 {
     public class TabCliente
     {
-        public string TableName = "IdCliente";
+        public string TableName = "Cliente";
         public int IdCliente { get; set; }
         public string Nombre { get; set; }
         public int FechaIngreso { get; set; }
@@ -32,6 +32,38 @@ namespace capa_negocio
             catch (Exception ex)
             {
                 throw ex;
+            }
+        }
+        public object Delete(TabCliente Inst)
+        {
+            try
+            {
+                SqlADOConexion.IniciarConexion("sa", "1234");
+
+                if (Inst.IdCliente < 0)
+                {
+                    throw new Exception("Especifique IdCliente");
+                }
+                else
+                {
+                    return SqlADOConexion.SQLM.DeleteObject(TableName, "IdCliente", Inst.IdCliente);
+                }
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+        }
+        public object Get(TabCliente Inst)
+        {
+            try
+            {
+                SqlADOConexion.IniciarConexion("sa", "1234");
+                return SqlADOConexion.SQLM.TakeList(TableName, Inst, null);
+            }
+            catch (Exception)
+            {
+                throw;
             }
         }
     }
