@@ -16,4 +16,8 @@
     <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="5.0.3" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\capa negocio\CAPA_NEGOCIO.csproj" />
+  </ItemGroup>
+
 </Project>

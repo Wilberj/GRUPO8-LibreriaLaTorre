@@ -7,7 +7,7 @@ using CAPA_DATOS;
 
 namespace capa_negocio
 {
-    internal class TabCompra
+    public class TabCompra
     {
         public string TableName = "Compra";
         public int IdCompra { get; set; }

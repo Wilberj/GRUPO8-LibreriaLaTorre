@@ -1,0 +1,13 @@
+C:\Users\Nery\Desktop\OWO\GRUPO8-LibreriaLaTorre\project.lib\capa negocio\bin\Debug\netcoreapp3.1\CAPA_NEGOCIO.deps.json
+C:\Users\Nery\Desktop\OWO\GRUPO8-LibreriaLaTorre\project.lib\capa negocio\bin\Debug\netcoreapp3.1\CAPA_NEGOCIO.dll
+C:\Users\Nery\Desktop\OWO\GRUPO8-LibreriaLaTorre\project.lib\capa negocio\bin\Debug\netcoreapp3.1\CAPA_NEGOCIO.pdb
+C:\Users\Nery\Desktop\OWO\GRUPO8-LibreriaLaTorre\project.lib\capa negocio\bin\Debug\netcoreapp3.1\CAPA_DATOS.dll
+C:\Users\Nery\Desktop\OWO\GRUPO8-LibreriaLaTorre\project.lib\capa negocio\bin\Debug\netcoreapp3.1\CAPA_DATOS.pdb
+C:\Users\Nery\Desktop\OWO\GRUPO8-LibreriaLaTorre\project.lib\capa negocio\obj\Debug\netcoreapp3.1\CAPA_NEGOCIO.csproj.AssemblyReference.cache
+C:\Users\Nery\Desktop\OWO\GRUPO8-LibreriaLaTorre\project.lib\capa negocio\obj\Debug\netcoreapp3.1\CAPA_NEGOCIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nery\Desktop\OWO\GRUPO8-LibreriaLaTorre\project.lib\capa negocio\obj\Debug\netcoreapp3.1\CAPA_NEGOCIO.AssemblyInfoInputs.cache
+C:\Users\Nery\Desktop\OWO\GRUPO8-LibreriaLaTorre\project.lib\capa negocio\obj\Debug\netcoreapp3.1\CAPA_NEGOCIO.AssemblyInfo.cs
+C:\Users\Nery\Desktop\OWO\GRUPO8-LibreriaLaTorre\project.lib\capa negocio\obj\Debug\netcoreapp3.1\CAPA_NEGOCIO.csproj.CoreCompileInputs.cache
+C:\Users\Nery\Desktop\OWO\GRUPO8-LibreriaLaTorre\project.lib\capa negocio\obj\Debug\netcoreapp3.1\CAPA_NEGOCIO.csproj.CopyComplete
+C:\Users\Nery\Desktop\OWO\GRUPO8-LibreriaLaTorre\project.lib\capa negocio\obj\Debug\netcoreapp3.1\CAPA_NEGOCIO.dll
+C:\Users\Nery\Desktop\OWO\GRUPO8-LibreriaLaTorre\project.lib\capa negocio\obj\Debug\netcoreapp3.1\CAPA_NEGOCIO.pdb

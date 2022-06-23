@@ -25,7 +25,7 @@ namespace capa_negocio
                 }
                 else
                 {
-                    return SqlADOConexion.SQLM.UpdateObject(TableName, Inst, "IdUsuario");
+                    return SqlADOConexion.SQLM.UpdateObject(TableName, Inst, null); //revisar el null 
                 }
             }
 
