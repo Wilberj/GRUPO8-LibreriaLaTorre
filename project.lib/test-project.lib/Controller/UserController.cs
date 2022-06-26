@@ -3,25 +3,25 @@ using Microsoft.AspNetCore.Mvc;
 using capa_negocio;
 using Newtonsoft.Json;
 
-//MetodoCategoria 
+
 namespace test_project.lib.Controller
 {
-    [Route("api/[controller]/[action]")]
+    [Route("api/[controller]")]
     [ApiController]
-    public class CategController : ControllerBase
+    public class UserController : ControllerBase
     {
         [HttpPost]
 
-        public object SaveCategoria(object ObjInst)
+        public object SaveUser(object ObjInst)
         {
-            CatCategoria Inst = JsonConvert.DeserializeObject<CatCategoria>(ObjInst.ToString());
+            TabUsuario Inst = JsonConvert.DeserializeObject<TabUsuario>(ObjInst.ToString());
             Inst.Save(Inst);
             return true;
         }
         [HttpPost]
-        public object GetCategoria()
+        public object GetUsuario()
         {
-            CatCategoria Inst = new CatCategoria();
+            TabUsuario Inst = new TabUsuario();
             return Inst.Get(Inst);
         }
     }

@@ -1,28 +1,28 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using capa_negocio;
 using Newtonsoft.Json;
+using capa_negocio;
 
-//MetodoCategoria 
 namespace test_project.lib.Controller
 {
     [Route("api/[controller]/[action]")]
     [ApiController]
-    public class CategController : ControllerBase
+    public class BodegController : ControllerBase
     {
         [HttpPost]
 
-        public object SaveCategoria(object ObjInst)
+        public object SaveBodega(object ObjInst)
         {
-            CatCategoria Inst = JsonConvert.DeserializeObject<CatCategoria>(ObjInst.ToString());
+            TabBodega Inst = JsonConvert.DeserializeObject<TabBodega>(ObjInst.ToString());
             Inst.Save(Inst);
             return true;
         }
         [HttpPost]
-        public object GetCategoria()
+        public object GetBodega()
         {
-            CatCategoria Inst = new CatCategoria();
+            TabBodega Inst = new TabBodega();
             return Inst.Get(Inst);
         }
+
     }
 }

@@ -34,9 +34,9 @@ namespace capa_negocio
                     return SqlADOConexion.SQLM.UpdateObject(TableName, Inst, "IdCompra");
                 }
             }
-            catch (Exception e)
+            catch (Exception ex)
             {
-                throw;
+                throw ex;
             }
 
         }
