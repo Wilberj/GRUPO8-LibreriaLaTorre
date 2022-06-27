@@ -472,19 +472,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Nery\\.nuget\\packages\\": {}
+    "C:\\Users\\quint\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nery\\Desktop\\OWO\\GRUPO8-LibreriaLaTorre\\project.lib\\capa negocio\\CAPA_NEGOCIO.csproj",
+      "projectUniqueName": "C:\\Users\\quint\\Source\\Repos\\Wilberj\\GRUPO8-LibreriaLaTorre\\project.lib\\capa negocio\\CAPA_NEGOCIO.csproj",
       "projectName": "CAPA_NEGOCIO",
-      "projectPath": "C:\\Users\\Nery\\Desktop\\OWO\\GRUPO8-LibreriaLaTorre\\project.lib\\capa negocio\\CAPA_NEGOCIO.csproj",
-      "packagesPath": "C:\\Users\\Nery\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nery\\Desktop\\OWO\\GRUPO8-LibreriaLaTorre\\project.lib\\capa negocio\\obj\\",
+      "projectPath": "C:\\Users\\quint\\Source\\Repos\\Wilberj\\GRUPO8-LibreriaLaTorre\\project.lib\\capa negocio\\CAPA_NEGOCIO.csproj",
+      "packagesPath": "C:\\Users\\quint\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\quint\\Source\\Repos\\Wilberj\\GRUPO8-LibreriaLaTorre\\project.lib\\capa negocio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Nery\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\quint\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -498,8 +498,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Nery\\Desktop\\OWO\\GRUPO8-LibreriaLaTorre\\project.lib\\capa datos\\CAPA_DATOS.csproj": {
-              "projectPath": "C:\\Users\\Nery\\Desktop\\OWO\\GRUPO8-LibreriaLaTorre\\project.lib\\capa datos\\CAPA_DATOS.csproj"
+            "C:\\Users\\quint\\Source\\Repos\\Wilberj\\GRUPO8-LibreriaLaTorre\\project.lib\\capa datos\\CAPA_DATOS.csproj": {
+              "projectPath": "C:\\Users\\quint\\Source\\Repos\\Wilberj\\GRUPO8-LibreriaLaTorre\\project.lib\\capa datos\\CAPA_DATOS.csproj"
             }
           }
         }
@@ -528,7 +528,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
       }
     }
   }

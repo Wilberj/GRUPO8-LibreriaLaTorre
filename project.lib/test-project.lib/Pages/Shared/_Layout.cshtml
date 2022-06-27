@@ -1,23 +1,69 @@
 ﻿<!DOCTYPE html>
-<html lang="en">
+<html lang="en" dir="ltr">
+
 <head>
     <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>@ViewData["Title"] - test_project.lib</title>
-    <link rel="stylesheet" href="~/css/site.css" />
+    <title>Menu Layout</title>
+    <link rel="stylesheet" href="style.css" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script src="https://kit.fontawesome.com/88641f4234.js" crossorigin="anonymous"></script>
 </head>
+
 <body>
+    <nav id="mySidenav" class="sidenav">
+        <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+        <!-- <header> <h1> La torre </h1></header>  Editar -->
+        <a href="#" class="active">
+            <i class="fa-solid fa-house"></i>
+            <span>Inicio</span>
+        </a>
+        <a href="#">
+            <i class="fa-solid fa-cash-register"></i>
+            <span>Ventas</span>
+        </a>
+        <a href="#">
+            <i class="fa-solid fa-basket-shopping"></i>
+            <span>Compras</span>
+        </a>
+        <a href="#">
+            <i class="fa-solid fa-cubes"></i>
+            <span>Bodegas</span>
+        </a>
+        <a href="#">
+            <i class="fa-solid fa-person"></i>
+            <span>Clientes</span>
+        </a>
+        <a href="#">
+            <i class="fa-solid fa-barcode"></i>
+            <span>Stock</span>
+        </a>
+        <a href="#">
+            <i class="fa-solid fa-gear"></i>
+            <span>Config</span>
+        </a>
+        </div>
+    </nav>
 
 
+    <span style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776;</span>
 
 
-    <div class="container">
-        <main role="main" class="pb-3">
-            @RenderBody()
-        </main>
+    <!-- Contenido -->
+    <div class="section-container" id="main">
+        <h1>AYUDA ME EKIVOKE DE CARRERA</h1>
     </div>
-    <script src="~/lib/jquery/dist/jquery.min.js"></script>
-    <script src="~/js/site.js" asp-append-version="true"></script>
-    @await RenderSectionAsync("Scripts", required: false)
+
+    <script>
+        function openNav() {
+            document.getElementById("mySidenav").style.width = "250px";
+            document.getElementById("main").style.marginLeft = "250px";
+        }
+
+        function closeNav() {
+            document.getElementById("mySidenav").style.width = "0";
+            document.getElementById("main").style.marginLeft = "0";
+        }
+    </script>
 </body>
+
 </html>
