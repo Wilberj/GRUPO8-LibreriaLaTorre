@@ -1,0 +1,148 @@
+﻿@page
+@model Libreria.Pages.Catalogos.ProductoPagModel
+@{
+}
+
+
+<script type="module">
+    import CreateTable from "../js/TableComponent.js";
+    import CreateDropDown from "../js/DropDownComponent.js";
+    const LoadData = async () => {
+        let url = "../api/Produc/GetProductos";
+        let response = await fetch(url);
+        response = await response.json();
+        CreateTable(response[0], TableData, FunctionEdit);
+        CreateDropDown(response[1], TxtCate, "nombre", "id_Categoria");
+        
+    }
+    const FunctionEdit = async (Item) => {
+        console.log(Item);
+        IdentProd.value = Item.id_Producto;
+        TxtDescripcion.value = Item.descripcion;
+        TxtEstado.value = Item.estado;
+        TxtNonbrecate.value = Item.nombre;
+        TxtCate.value = Item.id_Categoria;
+    }
+    window.onload = () => {
+        BtnSave.onclick = async () => {
+            let id;
+            if (!IdentProd.value) {
+                id = -1;
+            }
+            else {
+                id = IdentProd.value;
+            }
+            const ObjIns = {
+                id_Producto: id,
+                descripcion: TxtDescripcion.value,
+                estado: parseInt(TxtEstado.value),
+                nombre: TxtNonbrecate.value,
+                id_Categoria: parseInt(TxtCate.value),
+            }
+            let flag = true;
+            for (var prop in ObjIns) {
+                if (prop != "id_Producto" && prop != "estado" && prop != "id_Categoria") {
+                    if (ObjIns[prop] == "") {
+                        flag = false;
+                        alert("la propiedad " + prop + " es requerida");
+                        break;
+                    }
+                }
+            }
+            if (!flag) {
+                return;
+            }
+            let url = "../api/Produc/Saveproduc";
+            let response = await fetch(url, {
+                method: 'POST',
+                headers: {
+                    'Content-type': 'application/json; charset-utf-8',
+                    'Accept': '*/*'
+                },
+                body: JSON.stringify(ObjIns)
+            });
+            response = await response.json();
+            if (response == true) {
+                LoadData();
+                  document.getElementById("TxtCate").length =0;
+               
+                IdentProd.value = "-1";
+                  TxtDescripcion.value = "";
+                    TxtEstado.value = 1;
+                TxtNonbrecate.value = "";
+              
+                TxtCate.value = 1;
+            }
+        }
+        LoadData();
+    }
+</script>
+
+<main class="main">
+
+    <section class="card_madre">
+
+        <div class="Encabezado">
+            <h1>
+                Producto
+
+            </h1>
+        </div>
+        <div class="contenedor_formulario">
+
+            <div>
+                <label> Identificador</label>
+                <input class="Input_formulario" type="number" id="IdentProd" placeholder="ID">
+            </div>
+            <div>
+                <label> Descripcion</label>
+                <input class="Input_formulario" type="text" id="TxtDescripcion" placeholder="propiedad..">
+            </div>
+
+            <div>
+                Estado:
+                <select class="Input_formulario" id="TxtEstado">
+                    <option value="1">Activo</option>
+                    <option value="0">Inactivo</option>
+
+                </select>
+            </div>
+
+             <div>
+                <label> Nombre</label>
+                <input class="Input_formulario" type="text" id="TxtNonbrecate" placeholder="propiedad..">
+            </div>
+
+
+            <div>
+                Categoria:
+                <select class="Input_formulario" id="TxtCate">
+                 
+
+                </select>
+            </div>
+
+            <div>
+                <input type="button" class="btn btn-primary" id="BtnSave" value="Guardar">
+            </div>
+
+            <div>
+                <input class="BTN BTNCANCEL" type="button" id="" value="Cancelar">
+            </div>
+
+
+            <nav class="modal">
+                <nav>
+                </nav>
+
+                <table id="TableData" class="ContenedorTable">
+                    <thead>
+
+                    </thead>
+                    <tbody>
+                    </tbody>
+                </table>
+            </nav>
+        </div>
+    </section>
+</main>

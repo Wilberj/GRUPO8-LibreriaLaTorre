@@ -1,0 +1,90 @@
+C:\Users\Omar Salomé\3D Objects\Files\ProyectoQT\ProyectoLibreria\CAPA_NEGOCIO\bin\Debug\net5.0\CAPA_NEGOCIO.deps.json
+C:\Users\Omar Salomé\3D Objects\Files\ProyectoQT\ProyectoLibreria\CAPA_NEGOCIO\bin\Debug\net5.0\CAPA_NEGOCIO.dll
+C:\Users\Omar Salomé\3D Objects\Files\ProyectoQT\ProyectoLibreria\CAPA_NEGOCIO\bin\Debug\net5.0\CAPA_NEGOCIO.pdb
+C:\Users\Omar Salomé\3D Objects\Files\ProyectoQT\ProyectoLibreria\CAPA_NEGOCIO\bin\Debug\net5.0\CAPA_DATOS.dll
+C:\Users\Omar Salomé\3D Objects\Files\ProyectoQT\ProyectoLibreria\CAPA_NEGOCIO\bin\Debug\net5.0\CAPA_DATOS.pdb
+C:\Users\Omar Salomé\3D Objects\Files\ProyectoQT\ProyectoLibreria\CAPA_NEGOCIO\obj\Debug\net5.0\CAPA_NEGOCIO.csproj.AssemblyReference.cache
+C:\Users\Omar Salomé\3D Objects\Files\ProyectoQT\ProyectoLibreria\CAPA_NEGOCIO\obj\Debug\net5.0\CAPA_NEGOCIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omar Salomé\3D Objects\Files\ProyectoQT\ProyectoLibreria\CAPA_NEGOCIO\obj\Debug\net5.0\CAPA_NEGOCIO.AssemblyInfoInputs.cache
+C:\Users\Omar Salomé\3D Objects\Files\ProyectoQT\ProyectoLibreria\CAPA_NEGOCIO\obj\Debug\net5.0\CAPA_NEGOCIO.AssemblyInfo.cs
+C:\Users\Omar Salomé\3D Objects\Files\ProyectoQT\ProyectoLibreria\CAPA_NEGOCIO\obj\Debug\net5.0\CAPA_NEGOCIO.csproj.CoreCompileInputs.cache
+C:\Users\Omar Salomé\3D Objects\Files\ProyectoQT\ProyectoLibreria\CAPA_NEGOCIO\obj\Debug\net5.0\CAPA_NEGOCIO.csproj.CopyComplete
+C:\Users\Omar Salomé\3D Objects\Files\ProyectoQT\ProyectoLibreria\CAPA_NEGOCIO\obj\Debug\net5.0\CAPA_NEGOCIO.dll
+C:\Users\Omar Salomé\3D Objects\Files\ProyectoQT\ProyectoLibreria\CAPA_NEGOCIO\obj\Debug\net5.0\refint\CAPA_NEGOCIO.dll
+C:\Users\Omar Salomé\3D Objects\Files\ProyectoQT\ProyectoLibreria\CAPA_NEGOCIO\obj\Debug\net5.0\CAPA_NEGOCIO.pdb
+C:\Users\Omar Salomé\3D Objects\Files\ProyectoQT\ProyectoLibreria\CAPA_NEGOCIO\obj\Debug\net5.0\ref\CAPA_NEGOCIO.dll
+C:\Users\nery6\Desktop\ProyectoLibreria\CAPA_NEGOCIO\bin\Debug\net5.0\CAPA_NEGOCIO.deps.json
+C:\Users\nery6\Desktop\ProyectoLibreria\CAPA_NEGOCIO\bin\Debug\net5.0\CAPA_NEGOCIO.dll
+C:\Users\nery6\Desktop\ProyectoLibreria\CAPA_NEGOCIO\bin\Debug\net5.0\ref\CAPA_NEGOCIO.dll
+C:\Users\nery6\Desktop\ProyectoLibreria\CAPA_NEGOCIO\bin\Debug\net5.0\CAPA_NEGOCIO.pdb
+C:\Users\nery6\Desktop\ProyectoLibreria\CAPA_NEGOCIO\bin\Debug\net5.0\CAPA_DATOS.dll
+C:\Users\nery6\Desktop\ProyectoLibreria\CAPA_NEGOCIO\bin\Debug\net5.0\CAPA_DATOS.pdb
+C:\Users\nery6\Desktop\ProyectoLibreria\CAPA_NEGOCIO\obj\Debug\net5.0\CAPA_NEGOCIO.csproj.AssemblyReference.cache
+C:\Users\nery6\Desktop\ProyectoLibreria\CAPA_NEGOCIO\obj\Debug\net5.0\CAPA_NEGOCIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nery6\Desktop\ProyectoLibreria\CAPA_NEGOCIO\obj\Debug\net5.0\CAPA_NEGOCIO.AssemblyInfoInputs.cache
+C:\Users\nery6\Desktop\ProyectoLibreria\CAPA_NEGOCIO\obj\Debug\net5.0\CAPA_NEGOCIO.AssemblyInfo.cs
+C:\Users\nery6\Desktop\ProyectoLibreria\CAPA_NEGOCIO\obj\Debug\net5.0\CAPA_NEGOCIO.csproj.CoreCompileInputs.cache
+C:\Users\nery6\Desktop\ProyectoLibreria\CAPA_NEGOCIO\obj\Debug\net5.0\CAPA_NEGOCIO.csproj.CopyComplete
+C:\Users\nery6\Desktop\ProyectoLibreria\CAPA_NEGOCIO\obj\Debug\net5.0\CAPA_NEGOCIO.dll
+C:\Users\nery6\Desktop\ProyectoLibreria\CAPA_NEGOCIO\obj\Debug\net5.0\ref\CAPA_NEGOCIO.dll
+C:\Users\nery6\Desktop\ProyectoLibreria\CAPA_NEGOCIO\obj\Debug\net5.0\CAPA_NEGOCIO.pdb
+C:\Users\Omar Salomé\3D Objects\Files\Archivo\ProyectoLibreria\CAPA_NEGOCIO\bin\Debug\net5.0\CAPA_NEGOCIO.deps.json
+C:\Users\Omar Salomé\3D Objects\Files\Archivo\ProyectoLibreria\CAPA_NEGOCIO\bin\Debug\net5.0\CAPA_NEGOCIO.dll
+C:\Users\Omar Salomé\3D Objects\Files\Archivo\ProyectoLibreria\CAPA_NEGOCIO\bin\Debug\net5.0\CAPA_NEGOCIO.pdb
+C:\Users\Omar Salomé\3D Objects\Files\Archivo\ProyectoLibreria\CAPA_NEGOCIO\bin\Debug\net5.0\CAPA_DATOS.dll
+C:\Users\Omar Salomé\3D Objects\Files\Archivo\ProyectoLibreria\CAPA_NEGOCIO\bin\Debug\net5.0\CAPA_DATOS.pdb
+C:\Users\Omar Salomé\3D Objects\Files\Archivo\ProyectoLibreria\CAPA_NEGOCIO\obj\Debug\net5.0\CAPA_NEGOCIO.csproj.AssemblyReference.cache
+C:\Users\Omar Salomé\3D Objects\Files\Archivo\ProyectoLibreria\CAPA_NEGOCIO\obj\Debug\net5.0\CAPA_NEGOCIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omar Salomé\3D Objects\Files\Archivo\ProyectoLibreria\CAPA_NEGOCIO\obj\Debug\net5.0\CAPA_NEGOCIO.AssemblyInfoInputs.cache
+C:\Users\Omar Salomé\3D Objects\Files\Archivo\ProyectoLibreria\CAPA_NEGOCIO\obj\Debug\net5.0\CAPA_NEGOCIO.AssemblyInfo.cs
+C:\Users\Omar Salomé\3D Objects\Files\Archivo\ProyectoLibreria\CAPA_NEGOCIO\obj\Debug\net5.0\CAPA_NEGOCIO.csproj.CoreCompileInputs.cache
+C:\Users\Omar Salomé\3D Objects\Files\Archivo\ProyectoLibreria\CAPA_NEGOCIO\obj\Debug\net5.0\CAPA_NEGOCIO.csproj.CopyComplete
+C:\Users\Omar Salomé\3D Objects\Files\Archivo\ProyectoLibreria\CAPA_NEGOCIO\obj\Debug\net5.0\CAPA_NEGOCIO.dll
+C:\Users\Omar Salomé\3D Objects\Files\Archivo\ProyectoLibreria\CAPA_NEGOCIO\obj\Debug\net5.0\refint\CAPA_NEGOCIO.dll
+C:\Users\Omar Salomé\3D Objects\Files\Archivo\ProyectoLibreria\CAPA_NEGOCIO\obj\Debug\net5.0\CAPA_NEGOCIO.pdb
+C:\Users\Omar Salomé\3D Objects\Files\Archivo\ProyectoLibreria\CAPA_NEGOCIO\obj\Debug\net5.0\ref\CAPA_NEGOCIO.dll
+C:\Users\nery6\Documents\ProyectoLibreria\CAPA_NEGOCIO\bin\Debug\net5.0\CAPA_NEGOCIO.deps.json
+C:\Users\nery6\Documents\ProyectoLibreria\CAPA_NEGOCIO\bin\Debug\net5.0\CAPA_NEGOCIO.dll
+C:\Users\nery6\Documents\ProyectoLibreria\CAPA_NEGOCIO\bin\Debug\net5.0\ref\CAPA_NEGOCIO.dll
+C:\Users\nery6\Documents\ProyectoLibreria\CAPA_NEGOCIO\bin\Debug\net5.0\CAPA_NEGOCIO.pdb
+C:\Users\nery6\Documents\ProyectoLibreria\CAPA_NEGOCIO\bin\Debug\net5.0\CAPA_DATOS.dll
+C:\Users\nery6\Documents\ProyectoLibreria\CAPA_NEGOCIO\bin\Debug\net5.0\CAPA_DATOS.pdb
+C:\Users\nery6\Documents\ProyectoLibreria\CAPA_NEGOCIO\obj\Debug\net5.0\CAPA_NEGOCIO.csproj.AssemblyReference.cache
+C:\Users\nery6\Documents\ProyectoLibreria\CAPA_NEGOCIO\obj\Debug\net5.0\CAPA_NEGOCIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nery6\Documents\ProyectoLibreria\CAPA_NEGOCIO\obj\Debug\net5.0\CAPA_NEGOCIO.AssemblyInfoInputs.cache
+C:\Users\nery6\Documents\ProyectoLibreria\CAPA_NEGOCIO\obj\Debug\net5.0\CAPA_NEGOCIO.AssemblyInfo.cs
+C:\Users\nery6\Documents\ProyectoLibreria\CAPA_NEGOCIO\obj\Debug\net5.0\CAPA_NEGOCIO.csproj.CoreCompileInputs.cache
+C:\Users\nery6\Documents\ProyectoLibreria\CAPA_NEGOCIO\obj\Debug\net5.0\CAPA_NEGOCIO.csproj.CopyComplete
+C:\Users\nery6\Documents\ProyectoLibreria\CAPA_NEGOCIO\obj\Debug\net5.0\CAPA_NEGOCIO.dll
+C:\Users\nery6\Documents\ProyectoLibreria\CAPA_NEGOCIO\obj\Debug\net5.0\ref\CAPA_NEGOCIO.dll
+C:\Users\nery6\Documents\ProyectoLibreria\CAPA_NEGOCIO\obj\Debug\net5.0\CAPA_NEGOCIO.pdb
+C:\Users\nery6\Desktop\Testing\sistem.lib-testproject\CAPA_NEGOCIO\bin\Debug\net5.0\CAPA_NEGOCIO.deps.json
+C:\Users\nery6\Desktop\Testing\sistem.lib-testproject\CAPA_NEGOCIO\bin\Debug\net5.0\CAPA_NEGOCIO.dll
+C:\Users\nery6\Desktop\Testing\sistem.lib-testproject\CAPA_NEGOCIO\bin\Debug\net5.0\ref\CAPA_NEGOCIO.dll
+C:\Users\nery6\Desktop\Testing\sistem.lib-testproject\CAPA_NEGOCIO\bin\Debug\net5.0\CAPA_NEGOCIO.pdb
+C:\Users\nery6\Desktop\Testing\sistem.lib-testproject\CAPA_NEGOCIO\bin\Debug\net5.0\CAPA_DATOS.dll
+C:\Users\nery6\Desktop\Testing\sistem.lib-testproject\CAPA_NEGOCIO\bin\Debug\net5.0\CAPA_DATOS.pdb
+C:\Users\nery6\Desktop\Testing\sistem.lib-testproject\CAPA_NEGOCIO\obj\Debug\net5.0\CAPA_NEGOCIO.csproj.AssemblyReference.cache
+C:\Users\nery6\Desktop\Testing\sistem.lib-testproject\CAPA_NEGOCIO\obj\Debug\net5.0\CAPA_NEGOCIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nery6\Desktop\Testing\sistem.lib-testproject\CAPA_NEGOCIO\obj\Debug\net5.0\CAPA_NEGOCIO.AssemblyInfoInputs.cache
+C:\Users\nery6\Desktop\Testing\sistem.lib-testproject\CAPA_NEGOCIO\obj\Debug\net5.0\CAPA_NEGOCIO.AssemblyInfo.cs
+C:\Users\nery6\Desktop\Testing\sistem.lib-testproject\CAPA_NEGOCIO\obj\Debug\net5.0\CAPA_NEGOCIO.csproj.CoreCompileInputs.cache
+C:\Users\nery6\Desktop\Testing\sistem.lib-testproject\CAPA_NEGOCIO\obj\Debug\net5.0\CAPA_NEGOCIO.csproj.CopyComplete
+C:\Users\nery6\Desktop\Testing\sistem.lib-testproject\CAPA_NEGOCIO\obj\Debug\net5.0\CAPA_NEGOCIO.dll
+C:\Users\nery6\Desktop\Testing\sistem.lib-testproject\CAPA_NEGOCIO\obj\Debug\net5.0\ref\CAPA_NEGOCIO.dll
+C:\Users\nery6\Desktop\Testing\sistem.lib-testproject\CAPA_NEGOCIO\obj\Debug\net5.0\CAPA_NEGOCIO.pdb
+C:\Users\Omar Salomé\Documents\sql\H2O\BD procedimeineto de almacenado\Testing\sistem.lib-testproject\CAPA_NEGOCIO\bin\Debug\net5.0\CAPA_NEGOCIO.deps.json
+C:\Users\Omar Salomé\Documents\sql\H2O\BD procedimeineto de almacenado\Testing\sistem.lib-testproject\CAPA_NEGOCIO\bin\Debug\net5.0\CAPA_NEGOCIO.dll
+C:\Users\Omar Salomé\Documents\sql\H2O\BD procedimeineto de almacenado\Testing\sistem.lib-testproject\CAPA_NEGOCIO\bin\Debug\net5.0\CAPA_NEGOCIO.pdb
+C:\Users\Omar Salomé\Documents\sql\H2O\BD procedimeineto de almacenado\Testing\sistem.lib-testproject\CAPA_NEGOCIO\bin\Debug\net5.0\CAPA_DATOS.dll
+C:\Users\Omar Salomé\Documents\sql\H2O\BD procedimeineto de almacenado\Testing\sistem.lib-testproject\CAPA_NEGOCIO\bin\Debug\net5.0\CAPA_DATOS.pdb
+C:\Users\Omar Salomé\Documents\sql\H2O\BD procedimeineto de almacenado\Testing\sistem.lib-testproject\CAPA_NEGOCIO\obj\Debug\net5.0\CAPA_NEGOCIO.csproj.AssemblyReference.cache
+C:\Users\Omar Salomé\Documents\sql\H2O\BD procedimeineto de almacenado\Testing\sistem.lib-testproject\CAPA_NEGOCIO\obj\Debug\net5.0\CAPA_NEGOCIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omar Salomé\Documents\sql\H2O\BD procedimeineto de almacenado\Testing\sistem.lib-testproject\CAPA_NEGOCIO\obj\Debug\net5.0\CAPA_NEGOCIO.AssemblyInfoInputs.cache
+C:\Users\Omar Salomé\Documents\sql\H2O\BD procedimeineto de almacenado\Testing\sistem.lib-testproject\CAPA_NEGOCIO\obj\Debug\net5.0\CAPA_NEGOCIO.AssemblyInfo.cs
+C:\Users\Omar Salomé\Documents\sql\H2O\BD procedimeineto de almacenado\Testing\sistem.lib-testproject\CAPA_NEGOCIO\obj\Debug\net5.0\CAPA_NEGOCIO.csproj.CoreCompileInputs.cache
+C:\Users\Omar Salomé\Documents\sql\H2O\BD procedimeineto de almacenado\Testing\sistem.lib-testproject\CAPA_NEGOCIO\obj\Debug\net5.0\CAPA_NEGOCIO.csproj.CopyComplete
+C:\Users\Omar Salomé\Documents\sql\H2O\BD procedimeineto de almacenado\Testing\sistem.lib-testproject\CAPA_NEGOCIO\obj\Debug\net5.0\CAPA_NEGOCIO.dll
+C:\Users\Omar Salomé\Documents\sql\H2O\BD procedimeineto de almacenado\Testing\sistem.lib-testproject\CAPA_NEGOCIO\obj\Debug\net5.0\refint\CAPA_NEGOCIO.dll
+C:\Users\Omar Salomé\Documents\sql\H2O\BD procedimeineto de almacenado\Testing\sistem.lib-testproject\CAPA_NEGOCIO\obj\Debug\net5.0\CAPA_NEGOCIO.pdb
+C:\Users\Omar Salomé\Documents\sql\H2O\BD procedimeineto de almacenado\Testing\sistem.lib-testproject\CAPA_NEGOCIO\obj\Debug\net5.0\ref\CAPA_NEGOCIO.dll

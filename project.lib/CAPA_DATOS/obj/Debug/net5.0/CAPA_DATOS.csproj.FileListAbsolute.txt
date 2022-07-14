@@ -1,0 +1,72 @@
+C:\Users\Omar Salomé\3D Objects\Files\ProyectoQT\ProyectoLibreria\CAPA_DATOS\bin\Debug\net5.0\CAPA_DATOS.deps.json
+C:\Users\Omar Salomé\3D Objects\Files\ProyectoQT\ProyectoLibreria\CAPA_DATOS\bin\Debug\net5.0\CAPA_DATOS.dll
+C:\Users\Omar Salomé\3D Objects\Files\ProyectoQT\ProyectoLibreria\CAPA_DATOS\bin\Debug\net5.0\CAPA_DATOS.pdb
+C:\Users\Omar Salomé\3D Objects\Files\ProyectoQT\ProyectoLibreria\CAPA_DATOS\obj\Debug\net5.0\CAPA_DATOS.csproj.AssemblyReference.cache
+C:\Users\Omar Salomé\3D Objects\Files\ProyectoQT\ProyectoLibreria\CAPA_DATOS\obj\Debug\net5.0\CAPA_DATOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omar Salomé\3D Objects\Files\ProyectoQT\ProyectoLibreria\CAPA_DATOS\obj\Debug\net5.0\CAPA_DATOS.AssemblyInfoInputs.cache
+C:\Users\Omar Salomé\3D Objects\Files\ProyectoQT\ProyectoLibreria\CAPA_DATOS\obj\Debug\net5.0\CAPA_DATOS.AssemblyInfo.cs
+C:\Users\Omar Salomé\3D Objects\Files\ProyectoQT\ProyectoLibreria\CAPA_DATOS\obj\Debug\net5.0\CAPA_DATOS.csproj.CoreCompileInputs.cache
+C:\Users\Omar Salomé\3D Objects\Files\ProyectoQT\ProyectoLibreria\CAPA_DATOS\obj\Debug\net5.0\CAPA_DATOS.dll
+C:\Users\Omar Salomé\3D Objects\Files\ProyectoQT\ProyectoLibreria\CAPA_DATOS\obj\Debug\net5.0\refint\CAPA_DATOS.dll
+C:\Users\Omar Salomé\3D Objects\Files\ProyectoQT\ProyectoLibreria\CAPA_DATOS\obj\Debug\net5.0\CAPA_DATOS.pdb
+C:\Users\Omar Salomé\3D Objects\Files\ProyectoQT\ProyectoLibreria\CAPA_DATOS\obj\Debug\net5.0\ref\CAPA_DATOS.dll
+C:\Users\nery6\Desktop\ProyectoLibreria\CAPA_DATOS\bin\Debug\net5.0\CAPA_DATOS.deps.json
+C:\Users\nery6\Desktop\ProyectoLibreria\CAPA_DATOS\bin\Debug\net5.0\CAPA_DATOS.dll
+C:\Users\nery6\Desktop\ProyectoLibreria\CAPA_DATOS\bin\Debug\net5.0\ref\CAPA_DATOS.dll
+C:\Users\nery6\Desktop\ProyectoLibreria\CAPA_DATOS\bin\Debug\net5.0\CAPA_DATOS.pdb
+C:\Users\nery6\Desktop\ProyectoLibreria\CAPA_DATOS\obj\Debug\net5.0\CAPA_DATOS.csproj.AssemblyReference.cache
+C:\Users\nery6\Desktop\ProyectoLibreria\CAPA_DATOS\obj\Debug\net5.0\CAPA_DATOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nery6\Desktop\ProyectoLibreria\CAPA_DATOS\obj\Debug\net5.0\CAPA_DATOS.AssemblyInfoInputs.cache
+C:\Users\nery6\Desktop\ProyectoLibreria\CAPA_DATOS\obj\Debug\net5.0\CAPA_DATOS.AssemblyInfo.cs
+C:\Users\nery6\Desktop\ProyectoLibreria\CAPA_DATOS\obj\Debug\net5.0\CAPA_DATOS.csproj.CoreCompileInputs.cache
+C:\Users\nery6\Desktop\ProyectoLibreria\CAPA_DATOS\obj\Debug\net5.0\CAPA_DATOS.dll
+C:\Users\nery6\Desktop\ProyectoLibreria\CAPA_DATOS\obj\Debug\net5.0\ref\CAPA_DATOS.dll
+C:\Users\nery6\Desktop\ProyectoLibreria\CAPA_DATOS\obj\Debug\net5.0\CAPA_DATOS.pdb
+C:\Users\Omar Salomé\3D Objects\Files\Archivo\ProyectoLibreria\CAPA_DATOS\bin\Debug\net5.0\CAPA_DATOS.deps.json
+C:\Users\Omar Salomé\3D Objects\Files\Archivo\ProyectoLibreria\CAPA_DATOS\bin\Debug\net5.0\CAPA_DATOS.dll
+C:\Users\Omar Salomé\3D Objects\Files\Archivo\ProyectoLibreria\CAPA_DATOS\bin\Debug\net5.0\CAPA_DATOS.pdb
+C:\Users\Omar Salomé\3D Objects\Files\Archivo\ProyectoLibreria\CAPA_DATOS\obj\Debug\net5.0\CAPA_DATOS.csproj.AssemblyReference.cache
+C:\Users\Omar Salomé\3D Objects\Files\Archivo\ProyectoLibreria\CAPA_DATOS\obj\Debug\net5.0\CAPA_DATOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omar Salomé\3D Objects\Files\Archivo\ProyectoLibreria\CAPA_DATOS\obj\Debug\net5.0\CAPA_DATOS.AssemblyInfoInputs.cache
+C:\Users\Omar Salomé\3D Objects\Files\Archivo\ProyectoLibreria\CAPA_DATOS\obj\Debug\net5.0\CAPA_DATOS.AssemblyInfo.cs
+C:\Users\Omar Salomé\3D Objects\Files\Archivo\ProyectoLibreria\CAPA_DATOS\obj\Debug\net5.0\CAPA_DATOS.csproj.CoreCompileInputs.cache
+C:\Users\Omar Salomé\3D Objects\Files\Archivo\ProyectoLibreria\CAPA_DATOS\obj\Debug\net5.0\CAPA_DATOS.dll
+C:\Users\Omar Salomé\3D Objects\Files\Archivo\ProyectoLibreria\CAPA_DATOS\obj\Debug\net5.0\refint\CAPA_DATOS.dll
+C:\Users\Omar Salomé\3D Objects\Files\Archivo\ProyectoLibreria\CAPA_DATOS\obj\Debug\net5.0\CAPA_DATOS.pdb
+C:\Users\Omar Salomé\3D Objects\Files\Archivo\ProyectoLibreria\CAPA_DATOS\obj\Debug\net5.0\ref\CAPA_DATOS.dll
+C:\Users\nery6\Documents\ProyectoLibreria\CAPA_DATOS\bin\Debug\net5.0\CAPA_DATOS.deps.json
+C:\Users\nery6\Documents\ProyectoLibreria\CAPA_DATOS\bin\Debug\net5.0\CAPA_DATOS.dll
+C:\Users\nery6\Documents\ProyectoLibreria\CAPA_DATOS\bin\Debug\net5.0\ref\CAPA_DATOS.dll
+C:\Users\nery6\Documents\ProyectoLibreria\CAPA_DATOS\bin\Debug\net5.0\CAPA_DATOS.pdb
+C:\Users\nery6\Documents\ProyectoLibreria\CAPA_DATOS\obj\Debug\net5.0\CAPA_DATOS.csproj.AssemblyReference.cache
+C:\Users\nery6\Documents\ProyectoLibreria\CAPA_DATOS\obj\Debug\net5.0\CAPA_DATOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nery6\Documents\ProyectoLibreria\CAPA_DATOS\obj\Debug\net5.0\CAPA_DATOS.AssemblyInfoInputs.cache
+C:\Users\nery6\Documents\ProyectoLibreria\CAPA_DATOS\obj\Debug\net5.0\CAPA_DATOS.AssemblyInfo.cs
+C:\Users\nery6\Documents\ProyectoLibreria\CAPA_DATOS\obj\Debug\net5.0\CAPA_DATOS.csproj.CoreCompileInputs.cache
+C:\Users\nery6\Documents\ProyectoLibreria\CAPA_DATOS\obj\Debug\net5.0\CAPA_DATOS.dll
+C:\Users\nery6\Documents\ProyectoLibreria\CAPA_DATOS\obj\Debug\net5.0\ref\CAPA_DATOS.dll
+C:\Users\nery6\Documents\ProyectoLibreria\CAPA_DATOS\obj\Debug\net5.0\CAPA_DATOS.pdb
+C:\Users\nery6\Desktop\Testing\sistem.lib-testproject\CAPA_DATOS\bin\Debug\net5.0\CAPA_DATOS.deps.json
+C:\Users\nery6\Desktop\Testing\sistem.lib-testproject\CAPA_DATOS\bin\Debug\net5.0\CAPA_DATOS.dll
+C:\Users\nery6\Desktop\Testing\sistem.lib-testproject\CAPA_DATOS\bin\Debug\net5.0\ref\CAPA_DATOS.dll
+C:\Users\nery6\Desktop\Testing\sistem.lib-testproject\CAPA_DATOS\bin\Debug\net5.0\CAPA_DATOS.pdb
+C:\Users\nery6\Desktop\Testing\sistem.lib-testproject\CAPA_DATOS\obj\Debug\net5.0\CAPA_DATOS.csproj.AssemblyReference.cache
+C:\Users\nery6\Desktop\Testing\sistem.lib-testproject\CAPA_DATOS\obj\Debug\net5.0\CAPA_DATOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nery6\Desktop\Testing\sistem.lib-testproject\CAPA_DATOS\obj\Debug\net5.0\CAPA_DATOS.AssemblyInfoInputs.cache
+C:\Users\nery6\Desktop\Testing\sistem.lib-testproject\CAPA_DATOS\obj\Debug\net5.0\CAPA_DATOS.AssemblyInfo.cs
+C:\Users\nery6\Desktop\Testing\sistem.lib-testproject\CAPA_DATOS\obj\Debug\net5.0\CAPA_DATOS.csproj.CoreCompileInputs.cache
+C:\Users\nery6\Desktop\Testing\sistem.lib-testproject\CAPA_DATOS\obj\Debug\net5.0\CAPA_DATOS.dll
+C:\Users\nery6\Desktop\Testing\sistem.lib-testproject\CAPA_DATOS\obj\Debug\net5.0\ref\CAPA_DATOS.dll
+C:\Users\nery6\Desktop\Testing\sistem.lib-testproject\CAPA_DATOS\obj\Debug\net5.0\CAPA_DATOS.pdb
+C:\Users\Omar Salomé\Documents\sql\H2O\BD procedimeineto de almacenado\Testing\sistem.lib-testproject\CAPA_DATOS\bin\Debug\net5.0\CAPA_DATOS.deps.json
+C:\Users\Omar Salomé\Documents\sql\H2O\BD procedimeineto de almacenado\Testing\sistem.lib-testproject\CAPA_DATOS\bin\Debug\net5.0\CAPA_DATOS.dll
+C:\Users\Omar Salomé\Documents\sql\H2O\BD procedimeineto de almacenado\Testing\sistem.lib-testproject\CAPA_DATOS\bin\Debug\net5.0\CAPA_DATOS.pdb
+C:\Users\Omar Salomé\Documents\sql\H2O\BD procedimeineto de almacenado\Testing\sistem.lib-testproject\CAPA_DATOS\obj\Debug\net5.0\CAPA_DATOS.csproj.AssemblyReference.cache
+C:\Users\Omar Salomé\Documents\sql\H2O\BD procedimeineto de almacenado\Testing\sistem.lib-testproject\CAPA_DATOS\obj\Debug\net5.0\CAPA_DATOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omar Salomé\Documents\sql\H2O\BD procedimeineto de almacenado\Testing\sistem.lib-testproject\CAPA_DATOS\obj\Debug\net5.0\CAPA_DATOS.AssemblyInfoInputs.cache
+C:\Users\Omar Salomé\Documents\sql\H2O\BD procedimeineto de almacenado\Testing\sistem.lib-testproject\CAPA_DATOS\obj\Debug\net5.0\CAPA_DATOS.AssemblyInfo.cs
+C:\Users\Omar Salomé\Documents\sql\H2O\BD procedimeineto de almacenado\Testing\sistem.lib-testproject\CAPA_DATOS\obj\Debug\net5.0\CAPA_DATOS.csproj.CoreCompileInputs.cache
+C:\Users\Omar Salomé\Documents\sql\H2O\BD procedimeineto de almacenado\Testing\sistem.lib-testproject\CAPA_DATOS\obj\Debug\net5.0\CAPA_DATOS.dll
+C:\Users\Omar Salomé\Documents\sql\H2O\BD procedimeineto de almacenado\Testing\sistem.lib-testproject\CAPA_DATOS\obj\Debug\net5.0\refint\CAPA_DATOS.dll
+C:\Users\Omar Salomé\Documents\sql\H2O\BD procedimeineto de almacenado\Testing\sistem.lib-testproject\CAPA_DATOS\obj\Debug\net5.0\CAPA_DATOS.pdb
+C:\Users\Omar Salomé\Documents\sql\H2O\BD procedimeineto de almacenado\Testing\sistem.lib-testproject\CAPA_DATOS\obj\Debug\net5.0\ref\CAPA_DATOS.dll

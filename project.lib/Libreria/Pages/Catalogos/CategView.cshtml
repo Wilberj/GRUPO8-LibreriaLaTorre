@@ -1,0 +1,107 @@
+﻿@page
+@model Libreria.Pages.Catalogos.CategViewModel
+@{
+    Layout = "_Layout";
+}
+
+<main class="main">
+
+    <section class="card_madre">
+
+        <div class="Encabezado">
+            <h1>
+                Categorias
+
+            </h1>
+        </div>
+        <div class="contenedor_formulario">
+
+            <div>
+                <label> Identificador</label>
+                <input class="Input_formulario" type="number" id="IdentCat" placeholder="ID">
+            </div>
+            <div>
+                <label> Nombre</label>
+                <input class="Input_formulario" type="text" id="TxtNombre" placeholder="propiedad..">
+            </div>
+
+            <div>
+                Estado:
+                <select class="Input_formulario" id="TxtEstado">
+                    <option value="1">Activo</option>
+                    <option value="0">Inactivo</option>
+
+                </select>
+            </div>
+
+            <div>
+                <input type="button" class="btn btn-primary" id="BtnSave" value="Guardar">
+            </div>
+
+            <div>
+                <input class="BTN BTNCANCEL" type="button" id="" value="Cancelar">
+            </div>
+
+
+            <nav class="modal">
+                <nav>
+                </nav>
+
+                <table id="TableData" class="ContenedorTable">
+                    <thead>
+
+                    </thead>
+                    <tbody>
+                    </tbody>
+                </table>
+            </nav>
+        </div>
+    </section>
+</main>
+
+
+<script type="module">
+    import CreateTable from "../js/TableComponent.js";
+    const LoadData = async () => {
+        let url = "../api/Values/GetCategories";
+        let response = await fetch(url);
+        response = await response.json();
+        CreateTable(response, TableData, FunctionEdit);
+    }
+    const FunctionEdit = async (Item) => {
+        console.log(Item)
+        IdentCat.value = Item.id_Categoria;
+        TxtNombre.value = Item.nombre;
+        TxtEstado.value = Item.estado;
+
+
+    }
+    window.onload = () => {
+        BtnSave.onclick = async () => {
+            const ObjIns = {
+                Id_Categoria: (IdentCat.value == "" ? -1 : IdentCat.value),
+                Nombre: TxtNombre.value,
+                Estado: parseInt(TxtEstado.value),
+
+            }
+            let url = "../api/Values/SaveCategory";
+            let response = await fetch(url, {
+                method: 'POST',
+                headers: {
+                    'Content-type': 'application/json; charset-utf-8',
+                    'Accept': '*/*'
+                },
+                body: JSON.stringify(ObjIns)
+            });
+            response = await response.json();
+            if (response == true) {
+                LoadData();
+                IdentCat.value = "-1";
+                TxtNombre.value = "";
+                TxtEstado.value = 1;
+            }
+        }
+        LoadData();
+    }
+</script>
+

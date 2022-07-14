@@ -1,0 +1,195 @@
+﻿body {
+}
+.BTN {
+    outline: none;
+    box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.2);
+    padding: 10px;
+    margin-left: 2px;
+    margin-right: 2px;
+    text-decoration: none;
+    color: #808080;
+    border-radius: 5px;
+    background-color: #ffffffff;
+    cursor: pointer;
+    border: none;
+    font-weight: 100;
+}
+
+.BTNOK {
+    color: #fbfbfbfb;
+    background-color: #2482dc;
+}
+
+.BTN {
+    opacity: 0.7;
+}
+
+    .BTN:hover {
+        opacity: 1;
+    }
+
+.BTNOK2 {
+    color: #fbfbfbfb;
+    background-color: #38983a;
+}
+
+.BTNCANCEL {
+    color: #fbfbfbfb;
+    background-color: #b03c22;
+}
+
+.btn btn-primary {
+    color: #fbfbfbfb;
+    background-color: #b03c22;
+}
+
+.Contedor_padre {
+    width: 10%;
+}
+
+.main {
+    grid-area: main;
+    height: 100%;
+    width: 100%;
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background: linear-gradient(120deg, #5077cd 0%, #ebedee 100%);
+}
+
+.card_madre {
+    max-width: 800px;
+    height: auto;
+    margin: auto;
+    margin-top: 30px;
+    padding: 1px;
+}
+
+.Card_nombre {
+    grid-area: Card_nombre;
+    height: 40px;
+    line-height: 40px;
+    font-size: 15px;
+    background-color: rgb(43, 174, 168);
+    color: #fff;
+    top: 0;
+    left: 0;
+}
+
+.contenedor_formulario {
+    height: 100%;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-gap: 30px;
+    margin: 10px;
+    padding: 10px;
+    box-shadow: 0 2px 4px 2px rgba(0, 0, 0, 0.2);
+    border-radius: 3px;
+    justify-content: center;
+    font-size: 16px;
+    background: linear-gradient(to top, #0054c7 0%, #80a7df 100%);
+}
+
+
+    .Encabezado {
+    max-height: 100px;
+    background-color: rgba(0, 0, 0, 0.2);
+    color: #fff;
+    text-align: center;
+}
+
+.Input_formulario {
+    width: calc(100% - 10px);
+    height: 60%;
+    margin: 5px;
+    padding: 3px;
+    border-radius: 4px;
+    border: 1px solid;
+}
+
+.Inpun_select {
+    width: 60%;
+    height: 50%;
+}
+
+.modal {
+    grid-column: span 3;
+    height: auto;
+    width: 100%;
+    overflow: hidden;
+    background: rgb(20, 208, 241);
+    overflow-y: visible;
+    overflow-x: hidden;
+}
+
+.ContenedorTable {
+    width: 100%;
+    box-shadow: 0 2px 4px 2px rgba(0, 0, 0, 0.2);
+    margin-top: 0px;
+    margin-bottom: 10px;
+    margin: auto;
+}
+
+th {
+    padding: 10px 5px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+td {
+    text-align: center;
+    padding: 3px;
+    border-bottom: solid 1px mintcream;
+}
+
+table {
+    background-color: #272c58;
+    color: #fff;
+    padding: 10px;
+    gap: 10px;
+    font-size: 14px;
+    table-layout: fixed;
+    border-collapse: collapse;
+}
+
+thead {
+    background: #3c4bb3;
+}
+
+/*.modal {
+    display: none;*/ /* Hidden by default */
+    /*position: fixed;*/ /* Stay in place */
+    /*z-index: 1;*/ /* Sit on top */
+    /*left: 0;
+    top: 0;
+    width: 100%;*/ /* Full width */
+    /*height: 100%;*/ /* Full height */
+    /*overflow: auto;*/ /* Enable scroll if needed */
+    /*background-color: rgb(0,0,0);*/ /* Fallback color */
+    /*background-color: rgba(0,0,0,0.4);*/ /* Black w/ opacity */
+/*}*/
+
+/* Modal Content/Box */
+/*.modal-content {
+    background-color: #fefefe;
+    margin: 15% auto;*/ /* 15% from the top and centered */
+    /*padding: 20px;
+    border: 1px solid #888;
+    width: 80%;*/ /* Could be more or less, depending on screen size */
+/*}*/
+
+/* The Close Button */
+/*.close {
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+    .close:hover,
+    .close:focus {
+        color: black;
+        text-decoration: none;
+        cursor: pointer;
+    }*/

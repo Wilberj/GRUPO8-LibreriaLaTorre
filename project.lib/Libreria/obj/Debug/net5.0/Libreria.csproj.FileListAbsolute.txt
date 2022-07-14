@@ -1,0 +1,603 @@
+C:\Users\Omar Salomé\3D Objects\Files\ProyectoQT\ProyectoLibreria\Libreria\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Omar Salomé\3D Objects\Files\ProyectoQT\ProyectoLibreria\Libreria\bin\Debug\net5.0\appsettings.json
+C:\Users\Omar Salomé\3D Objects\Files\ProyectoQT\ProyectoLibreria\Libreria\bin\Debug\net5.0\Libreria.StaticWebAssets.xml
+C:\Users\Omar Salomé\3D Objects\Files\ProyectoQT\ProyectoLibreria\Libreria\bin\Debug\net5.0\Libreria.exe
+C:\Users\Omar Salomé\3D Objects\Files\ProyectoQT\ProyectoLibreria\Libreria\bin\Debug\net5.0\Libreria.deps.json
+C:\Users\Omar Salomé\3D Objects\Files\ProyectoQT\ProyectoLibreria\Libreria\bin\Debug\net5.0\Libreria.runtimeconfig.json
+C:\Users\Omar Salomé\3D Objects\Files\ProyectoQT\ProyectoLibreria\Libreria\bin\Debug\net5.0\Libreria.runtimeconfig.dev.json
+C:\Users\Omar Salomé\3D Objects\Files\ProyectoQT\ProyectoLibreria\Libreria\bin\Debug\net5.0\Libreria.dll
+C:\Users\Omar Salomé\3D Objects\Files\ProyectoQT\ProyectoLibreria\Libreria\bin\Debug\net5.0\Libreria.pdb
+C:\Users\Omar Salomé\3D Objects\Files\ProyectoQT\ProyectoLibreria\Libreria\bin\Debug\net5.0\Libreria.Views.dll
+C:\Users\Omar Salomé\3D Objects\Files\ProyectoQT\ProyectoLibreria\Libreria\bin\Debug\net5.0\Libreria.Views.pdb
+C:\Users\Omar Salomé\3D Objects\Files\ProyectoQT\ProyectoLibreria\Libreria\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Omar Salomé\3D Objects\Files\ProyectoQT\ProyectoLibreria\Libreria\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Omar Salomé\3D Objects\Files\ProyectoQT\ProyectoLibreria\Libreria\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Omar Salomé\3D Objects\Files\ProyectoQT\ProyectoLibreria\Libreria\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Omar Salomé\3D Objects\Files\ProyectoQT\ProyectoLibreria\Libreria\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Omar Salomé\3D Objects\Files\ProyectoQT\ProyectoLibreria\Libreria\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\Omar Salomé\3D Objects\Files\ProyectoQT\ProyectoLibreria\Libreria\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Omar Salomé\3D Objects\Files\ProyectoQT\ProyectoLibreria\Libreria\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Omar Salomé\3D Objects\Files\ProyectoQT\ProyectoLibreria\Libreria\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Omar Salomé\3D Objects\Files\ProyectoQT\ProyectoLibreria\Libreria\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Omar Salomé\3D Objects\Files\ProyectoQT\ProyectoLibreria\Libreria\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Omar Salomé\3D Objects\Files\ProyectoQT\ProyectoLibreria\Libreria\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Omar Salomé\3D Objects\Files\ProyectoQT\ProyectoLibreria\Libreria\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Omar Salomé\3D Objects\Files\ProyectoQT\ProyectoLibreria\Libreria\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Omar Salomé\3D Objects\Files\ProyectoQT\ProyectoLibreria\Libreria\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Omar Salomé\3D Objects\Files\ProyectoQT\ProyectoLibreria\Libreria\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Omar Salomé\3D Objects\Files\ProyectoQT\ProyectoLibreria\Libreria\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Omar Salomé\3D Objects\Files\ProyectoQT\ProyectoLibreria\Libreria\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Omar Salomé\3D Objects\Files\ProyectoQT\ProyectoLibreria\Libreria\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Omar Salomé\3D Objects\Files\ProyectoQT\ProyectoLibreria\Libreria\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Omar Salomé\3D Objects\Files\ProyectoQT\ProyectoLibreria\Libreria\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Omar Salomé\3D Objects\Files\ProyectoQT\ProyectoLibreria\Libreria\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Omar Salomé\3D Objects\Files\ProyectoQT\ProyectoLibreria\Libreria\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Omar Salomé\3D Objects\Files\ProyectoQT\ProyectoLibreria\Libreria\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Omar Salomé\3D Objects\Files\ProyectoQT\ProyectoLibreria\Libreria\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Omar Salomé\3D Objects\Files\ProyectoQT\ProyectoLibreria\Libreria\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\Omar Salomé\3D Objects\Files\ProyectoQT\ProyectoLibreria\Libreria\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Omar Salomé\3D Objects\Files\ProyectoQT\ProyectoLibreria\Libreria\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Omar Salomé\3D Objects\Files\ProyectoQT\ProyectoLibreria\Libreria\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Omar Salomé\3D Objects\Files\ProyectoQT\ProyectoLibreria\Libreria\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Omar Salomé\3D Objects\Files\ProyectoQT\ProyectoLibreria\Libreria\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Omar Salomé\3D Objects\Files\ProyectoQT\ProyectoLibreria\Libreria\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Omar Salomé\3D Objects\Files\ProyectoQT\ProyectoLibreria\Libreria\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Omar Salomé\3D Objects\Files\ProyectoQT\ProyectoLibreria\Libreria\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Omar Salomé\3D Objects\Files\ProyectoQT\ProyectoLibreria\Libreria\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Omar Salomé\3D Objects\Files\ProyectoQT\ProyectoLibreria\Libreria\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Omar Salomé\3D Objects\Files\ProyectoQT\ProyectoLibreria\Libreria\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Omar Salomé\3D Objects\Files\ProyectoQT\ProyectoLibreria\Libreria\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Omar Salomé\3D Objects\Files\ProyectoQT\ProyectoLibreria\Libreria\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Omar Salomé\3D Objects\Files\ProyectoQT\ProyectoLibreria\Libreria\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Omar Salomé\3D Objects\Files\ProyectoQT\ProyectoLibreria\Libreria\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Omar Salomé\3D Objects\Files\ProyectoQT\ProyectoLibreria\Libreria\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Omar Salomé\3D Objects\Files\ProyectoQT\ProyectoLibreria\Libreria\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Omar Salomé\3D Objects\Files\ProyectoQT\ProyectoLibreria\Libreria\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Omar Salomé\3D Objects\Files\ProyectoQT\ProyectoLibreria\Libreria\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Omar Salomé\3D Objects\Files\ProyectoQT\ProyectoLibreria\Libreria\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Omar Salomé\3D Objects\Files\ProyectoQT\ProyectoLibreria\Libreria\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Omar Salomé\3D Objects\Files\ProyectoQT\ProyectoLibreria\Libreria\bin\Debug\net5.0\CAPA_DATOS.dll
+C:\Users\Omar Salomé\3D Objects\Files\ProyectoQT\ProyectoLibreria\Libreria\bin\Debug\net5.0\CAPA_NEGOCIO.dll
+C:\Users\Omar Salomé\3D Objects\Files\ProyectoQT\ProyectoLibreria\Libreria\bin\Debug\net5.0\CAPA_NEGOCIO.pdb
+C:\Users\Omar Salomé\3D Objects\Files\ProyectoQT\ProyectoLibreria\Libreria\bin\Debug\net5.0\CAPA_DATOS.pdb
+C:\Users\Omar Salomé\3D Objects\Files\ProyectoQT\ProyectoLibreria\Libreria\obj\Debug\net5.0\Libreria.csproj.AssemblyReference.cache
+C:\Users\Omar Salomé\3D Objects\Files\ProyectoQT\ProyectoLibreria\Libreria\obj\Debug\net5.0\Libreria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omar Salomé\3D Objects\Files\ProyectoQT\ProyectoLibreria\Libreria\obj\Debug\net5.0\Libreria.AssemblyInfoInputs.cache
+C:\Users\Omar Salomé\3D Objects\Files\ProyectoQT\ProyectoLibreria\Libreria\obj\Debug\net5.0\Libreria.AssemblyInfo.cs
+C:\Users\Omar Salomé\3D Objects\Files\ProyectoQT\ProyectoLibreria\Libreria\obj\Debug\net5.0\Libreria.csproj.CoreCompileInputs.cache
+C:\Users\Omar Salomé\3D Objects\Files\ProyectoQT\ProyectoLibreria\Libreria\obj\Debug\net5.0\Libreria.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Omar Salomé\3D Objects\Files\ProyectoQT\ProyectoLibreria\Libreria\obj\Debug\net5.0\Libreria.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Omar Salomé\3D Objects\Files\ProyectoQT\ProyectoLibreria\Libreria\obj\Debug\net5.0\Libreria.RazorAssemblyInfo.cache
+C:\Users\Omar Salomé\3D Objects\Files\ProyectoQT\ProyectoLibreria\Libreria\obj\Debug\net5.0\Libreria.RazorAssemblyInfo.cs
+C:\Users\Omar Salomé\3D Objects\Files\ProyectoQT\ProyectoLibreria\Libreria\obj\Debug\net5.0\scopedcss\bundle\Libreria.styles.css
+C:\Users\Omar Salomé\3D Objects\Files\ProyectoQT\ProyectoLibreria\Libreria\obj\Debug\net5.0\staticwebassets\Libreria.StaticWebAssets.Manifest.cache
+C:\Users\Omar Salomé\3D Objects\Files\ProyectoQT\ProyectoLibreria\Libreria\obj\Debug\net5.0\staticwebassets\Libreria.StaticWebAssets.xml
+C:\Users\Omar Salomé\3D Objects\Files\ProyectoQT\ProyectoLibreria\Libreria\obj\Debug\net5.0\Libreria.TagHelpers.input.cache
+C:\Users\Omar Salomé\3D Objects\Files\ProyectoQT\ProyectoLibreria\Libreria\obj\Debug\net5.0\Libreria.TagHelpers.output.cache
+C:\Users\Omar Salomé\3D Objects\Files\ProyectoQT\ProyectoLibreria\Libreria\obj\Debug\net5.0\Libreria.RazorCoreGenerate.cache
+C:\Users\Omar Salomé\3D Objects\Files\ProyectoQT\ProyectoLibreria\Libreria\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Omar Salomé\3D Objects\Files\ProyectoQT\ProyectoLibreria\Libreria\obj\Debug\net5.0\Razor\Pages\Catalogos\CategView.cshtml.g.cs
+C:\Users\Omar Salomé\3D Objects\Files\ProyectoQT\ProyectoLibreria\Libreria\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Omar Salomé\3D Objects\Files\ProyectoQT\ProyectoLibreria\Libreria\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Omar Salomé\3D Objects\Files\ProyectoQT\ProyectoLibreria\Libreria\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Omar Salomé\3D Objects\Files\ProyectoQT\ProyectoLibreria\Libreria\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Omar Salomé\3D Objects\Files\ProyectoQT\ProyectoLibreria\Libreria\obj\Debug\net5.0\Razor\Pages\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Omar Salomé\3D Objects\Files\ProyectoQT\ProyectoLibreria\Libreria\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Omar Salomé\3D Objects\Files\ProyectoQT\ProyectoLibreria\Libreria\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Omar Salomé\3D Objects\Files\ProyectoQT\ProyectoLibreria\Libreria\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Omar Salomé\3D Objects\Files\ProyectoQT\ProyectoLibreria\Libreria\obj\Debug\net5.0\Libreria.RazorTargetAssemblyInfo.cache
+C:\Users\Omar Salomé\3D Objects\Files\ProyectoQT\ProyectoLibreria\Libreria\obj\Debug\net5.0\Libreria.RazorTargetAssemblyInfo.cs
+C:\Users\Omar Salomé\3D Objects\Files\ProyectoQT\ProyectoLibreria\Libreria\obj\Debug\net5.0\Libreria.Views.pdb
+C:\Users\Omar Salomé\3D Objects\Files\ProyectoQT\ProyectoLibreria\Libreria\obj\Debug\net5.0\Libreria.csproj.CopyComplete
+C:\Users\Omar Salomé\3D Objects\Files\ProyectoQT\ProyectoLibreria\Libreria\obj\Debug\net5.0\Libreria.dll
+C:\Users\Omar Salomé\3D Objects\Files\ProyectoQT\ProyectoLibreria\Libreria\obj\Debug\net5.0\refint\Libreria.dll
+C:\Users\Omar Salomé\3D Objects\Files\ProyectoQT\ProyectoLibreria\Libreria\obj\Debug\net5.0\Libreria.pdb
+C:\Users\Omar Salomé\3D Objects\Files\ProyectoQT\ProyectoLibreria\Libreria\obj\Debug\net5.0\Libreria.genruntimeconfig.cache
+C:\Users\Omar Salomé\3D Objects\Files\ProyectoQT\ProyectoLibreria\Libreria\obj\Debug\net5.0\ref\Libreria.dll
+C:\Users\Omar Salomé\3D Objects\Files\ProyectoQT\ProyectoLibreria\Libreria\obj\Debug\net5.0\Razor\Pages\Catalogos\ProductoPag.cshtml.g.cs
+C:\Users\nery6\Desktop\ProyectoLibreria\Libreria\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\nery6\Desktop\ProyectoLibreria\Libreria\bin\Debug\net5.0\appsettings.json
+C:\Users\nery6\Desktop\ProyectoLibreria\Libreria\bin\Debug\net5.0\Libreria.StaticWebAssets.xml
+C:\Users\nery6\Desktop\ProyectoLibreria\Libreria\bin\Debug\net5.0\Libreria.exe
+C:\Users\nery6\Desktop\ProyectoLibreria\Libreria\bin\Debug\net5.0\Libreria.deps.json
+C:\Users\nery6\Desktop\ProyectoLibreria\Libreria\bin\Debug\net5.0\Libreria.runtimeconfig.json
+C:\Users\nery6\Desktop\ProyectoLibreria\Libreria\bin\Debug\net5.0\Libreria.runtimeconfig.dev.json
+C:\Users\nery6\Desktop\ProyectoLibreria\Libreria\bin\Debug\net5.0\Libreria.dll
+C:\Users\nery6\Desktop\ProyectoLibreria\Libreria\bin\Debug\net5.0\ref\Libreria.dll
+C:\Users\nery6\Desktop\ProyectoLibreria\Libreria\bin\Debug\net5.0\Libreria.pdb
+C:\Users\nery6\Desktop\ProyectoLibreria\Libreria\bin\Debug\net5.0\Libreria.Views.dll
+C:\Users\nery6\Desktop\ProyectoLibreria\Libreria\bin\Debug\net5.0\Libreria.Views.pdb
+C:\Users\nery6\Desktop\ProyectoLibreria\Libreria\bin\Debug\net5.0\Humanizer.dll
+C:\Users\nery6\Desktop\ProyectoLibreria\Libreria\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\nery6\Desktop\ProyectoLibreria\Libreria\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\nery6\Desktop\ProyectoLibreria\Libreria\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\nery6\Desktop\ProyectoLibreria\Libreria\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\nery6\Desktop\ProyectoLibreria\Libreria\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\nery6\Desktop\ProyectoLibreria\Libreria\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\nery6\Desktop\ProyectoLibreria\Libreria\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\nery6\Desktop\ProyectoLibreria\Libreria\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\nery6\Desktop\ProyectoLibreria\Libreria\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\nery6\Desktop\ProyectoLibreria\Libreria\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\nery6\Desktop\ProyectoLibreria\Libreria\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\nery6\Desktop\ProyectoLibreria\Libreria\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\nery6\Desktop\ProyectoLibreria\Libreria\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\nery6\Desktop\ProyectoLibreria\Libreria\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\nery6\Desktop\ProyectoLibreria\Libreria\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\nery6\Desktop\ProyectoLibreria\Libreria\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\nery6\Desktop\ProyectoLibreria\Libreria\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\nery6\Desktop\ProyectoLibreria\Libreria\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\nery6\Desktop\ProyectoLibreria\Libreria\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\nery6\Desktop\ProyectoLibreria\Libreria\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\nery6\Desktop\ProyectoLibreria\Libreria\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\nery6\Desktop\ProyectoLibreria\Libreria\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\nery6\Desktop\ProyectoLibreria\Libreria\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\nery6\Desktop\ProyectoLibreria\Libreria\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\nery6\Desktop\ProyectoLibreria\Libreria\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\nery6\Desktop\ProyectoLibreria\Libreria\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nery6\Desktop\ProyectoLibreria\Libreria\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nery6\Desktop\ProyectoLibreria\Libreria\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\nery6\Desktop\ProyectoLibreria\Libreria\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nery6\Desktop\ProyectoLibreria\Libreria\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\nery6\Desktop\ProyectoLibreria\Libreria\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\nery6\Desktop\ProyectoLibreria\Libreria\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nery6\Desktop\ProyectoLibreria\Libreria\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\nery6\Desktop\ProyectoLibreria\Libreria\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nery6\Desktop\ProyectoLibreria\Libreria\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\nery6\Desktop\ProyectoLibreria\Libreria\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nery6\Desktop\ProyectoLibreria\Libreria\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\nery6\Desktop\ProyectoLibreria\Libreria\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nery6\Desktop\ProyectoLibreria\Libreria\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\nery6\Desktop\ProyectoLibreria\Libreria\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\nery6\Desktop\ProyectoLibreria\Libreria\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\nery6\Desktop\ProyectoLibreria\Libreria\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\nery6\Desktop\ProyectoLibreria\Libreria\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nery6\Desktop\ProyectoLibreria\Libreria\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nery6\Desktop\ProyectoLibreria\Libreria\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\nery6\Desktop\ProyectoLibreria\Libreria\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nery6\Desktop\ProyectoLibreria\Libreria\bin\Debug\net5.0\CAPA_DATOS.dll
+C:\Users\nery6\Desktop\ProyectoLibreria\Libreria\bin\Debug\net5.0\CAPA_NEGOCIO.dll
+C:\Users\nery6\Desktop\ProyectoLibreria\Libreria\bin\Debug\net5.0\CAPA_NEGOCIO.pdb
+C:\Users\nery6\Desktop\ProyectoLibreria\Libreria\bin\Debug\net5.0\CAPA_DATOS.pdb
+C:\Users\nery6\Desktop\ProyectoLibreria\Libreria\obj\Debug\net5.0\Libreria.csproj.AssemblyReference.cache
+C:\Users\nery6\Desktop\ProyectoLibreria\Libreria\obj\Debug\net5.0\Libreria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nery6\Desktop\ProyectoLibreria\Libreria\obj\Debug\net5.0\Libreria.AssemblyInfoInputs.cache
+C:\Users\nery6\Desktop\ProyectoLibreria\Libreria\obj\Debug\net5.0\Libreria.AssemblyInfo.cs
+C:\Users\nery6\Desktop\ProyectoLibreria\Libreria\obj\Debug\net5.0\Libreria.csproj.CoreCompileInputs.cache
+C:\Users\nery6\Desktop\ProyectoLibreria\Libreria\obj\Debug\net5.0\Libreria.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\nery6\Desktop\ProyectoLibreria\Libreria\obj\Debug\net5.0\Libreria.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nery6\Desktop\ProyectoLibreria\Libreria\obj\Debug\net5.0\Libreria.RazorAssemblyInfo.cache
+C:\Users\nery6\Desktop\ProyectoLibreria\Libreria\obj\Debug\net5.0\Libreria.RazorAssemblyInfo.cs
+C:\Users\nery6\Desktop\ProyectoLibreria\Libreria\obj\Debug\net5.0\staticwebassets\Libreria.StaticWebAssets.Manifest.cache
+C:\Users\nery6\Desktop\ProyectoLibreria\Libreria\obj\Debug\net5.0\staticwebassets\Libreria.StaticWebAssets.xml
+C:\Users\nery6\Desktop\ProyectoLibreria\Libreria\obj\Debug\net5.0\scopedcss\bundle\Libreria.styles.css
+C:\Users\nery6\Desktop\ProyectoLibreria\Libreria\obj\Debug\net5.0\Libreria.TagHelpers.input.cache
+C:\Users\nery6\Desktop\ProyectoLibreria\Libreria\obj\Debug\net5.0\Libreria.TagHelpers.output.cache
+C:\Users\nery6\Desktop\ProyectoLibreria\Libreria\obj\Debug\net5.0\Libreria.RazorCoreGenerate.cache
+C:\Users\nery6\Desktop\ProyectoLibreria\Libreria\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\nery6\Desktop\ProyectoLibreria\Libreria\obj\Debug\net5.0\Razor\Pages\Catalogos\BodegaView.cshtml.g.cs
+C:\Users\nery6\Desktop\ProyectoLibreria\Libreria\obj\Debug\net5.0\Razor\Pages\Catalogos\CategView.cshtml.g.cs
+C:\Users\nery6\Desktop\ProyectoLibreria\Libreria\obj\Debug\net5.0\Razor\Pages\Catalogos\ProductoPag.cshtml.g.cs
+C:\Users\nery6\Desktop\ProyectoLibreria\Libreria\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\nery6\Desktop\ProyectoLibreria\Libreria\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\nery6\Desktop\ProyectoLibreria\Libreria\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\nery6\Desktop\ProyectoLibreria\Libreria\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\nery6\Desktop\ProyectoLibreria\Libreria\obj\Debug\net5.0\Razor\Pages\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\nery6\Desktop\ProyectoLibreria\Libreria\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\nery6\Desktop\ProyectoLibreria\Libreria\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\nery6\Desktop\ProyectoLibreria\Libreria\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\nery6\Desktop\ProyectoLibreria\Libreria\obj\Debug\net5.0\Libreria.RazorTargetAssemblyInfo.cache
+C:\Users\nery6\Desktop\ProyectoLibreria\Libreria\obj\Debug\net5.0\Libreria.RazorTargetAssemblyInfo.cs
+C:\Users\nery6\Desktop\ProyectoLibreria\Libreria\obj\Debug\net5.0\Libreria.Views.pdb
+C:\Users\nery6\Desktop\ProyectoLibreria\Libreria\obj\Debug\net5.0\Libreria.csproj.CopyComplete
+C:\Users\nery6\Desktop\ProyectoLibreria\Libreria\obj\Debug\net5.0\Libreria.dll
+C:\Users\nery6\Desktop\ProyectoLibreria\Libreria\obj\Debug\net5.0\ref\Libreria.dll
+C:\Users\nery6\Desktop\ProyectoLibreria\Libreria\obj\Debug\net5.0\Libreria.pdb
+C:\Users\nery6\Desktop\ProyectoLibreria\Libreria\obj\Debug\net5.0\Libreria.genruntimeconfig.cache
+C:\Users\nery6\Desktop\ProyectoLibreria\Libreria\obj\Debug\net5.0\Razor\Pages\Catalogos\UsuarioView.cshtml.g.cs
+C:\Users\nery6\Desktop\ProyectoLibreria\Libreria\obj\Debug\net5.0\Razor\Pages\Catalogos\ProvView.cshtml.g.cs
+C:\Users\Omar Salomé\3D Objects\Files\Archivo\ProyectoLibreria\Libreria\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Omar Salomé\3D Objects\Files\Archivo\ProyectoLibreria\Libreria\bin\Debug\net5.0\appsettings.json
+C:\Users\Omar Salomé\3D Objects\Files\Archivo\ProyectoLibreria\Libreria\bin\Debug\net5.0\Libreria.StaticWebAssets.xml
+C:\Users\Omar Salomé\3D Objects\Files\Archivo\ProyectoLibreria\Libreria\bin\Debug\net5.0\Libreria.exe
+C:\Users\Omar Salomé\3D Objects\Files\Archivo\ProyectoLibreria\Libreria\bin\Debug\net5.0\Libreria.deps.json
+C:\Users\Omar Salomé\3D Objects\Files\Archivo\ProyectoLibreria\Libreria\bin\Debug\net5.0\Libreria.runtimeconfig.json
+C:\Users\Omar Salomé\3D Objects\Files\Archivo\ProyectoLibreria\Libreria\bin\Debug\net5.0\Libreria.runtimeconfig.dev.json
+C:\Users\Omar Salomé\3D Objects\Files\Archivo\ProyectoLibreria\Libreria\bin\Debug\net5.0\Libreria.dll
+C:\Users\Omar Salomé\3D Objects\Files\Archivo\ProyectoLibreria\Libreria\bin\Debug\net5.0\Libreria.pdb
+C:\Users\Omar Salomé\3D Objects\Files\Archivo\ProyectoLibreria\Libreria\bin\Debug\net5.0\Libreria.Views.dll
+C:\Users\Omar Salomé\3D Objects\Files\Archivo\ProyectoLibreria\Libreria\bin\Debug\net5.0\Libreria.Views.pdb
+C:\Users\Omar Salomé\3D Objects\Files\Archivo\ProyectoLibreria\Libreria\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Omar Salomé\3D Objects\Files\Archivo\ProyectoLibreria\Libreria\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Omar Salomé\3D Objects\Files\Archivo\ProyectoLibreria\Libreria\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Omar Salomé\3D Objects\Files\Archivo\ProyectoLibreria\Libreria\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Omar Salomé\3D Objects\Files\Archivo\ProyectoLibreria\Libreria\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Omar Salomé\3D Objects\Files\Archivo\ProyectoLibreria\Libreria\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\Omar Salomé\3D Objects\Files\Archivo\ProyectoLibreria\Libreria\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Omar Salomé\3D Objects\Files\Archivo\ProyectoLibreria\Libreria\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Omar Salomé\3D Objects\Files\Archivo\ProyectoLibreria\Libreria\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Omar Salomé\3D Objects\Files\Archivo\ProyectoLibreria\Libreria\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Omar Salomé\3D Objects\Files\Archivo\ProyectoLibreria\Libreria\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Omar Salomé\3D Objects\Files\Archivo\ProyectoLibreria\Libreria\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Omar Salomé\3D Objects\Files\Archivo\ProyectoLibreria\Libreria\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Omar Salomé\3D Objects\Files\Archivo\ProyectoLibreria\Libreria\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Omar Salomé\3D Objects\Files\Archivo\ProyectoLibreria\Libreria\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Omar Salomé\3D Objects\Files\Archivo\ProyectoLibreria\Libreria\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Omar Salomé\3D Objects\Files\Archivo\ProyectoLibreria\Libreria\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Omar Salomé\3D Objects\Files\Archivo\ProyectoLibreria\Libreria\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Omar Salomé\3D Objects\Files\Archivo\ProyectoLibreria\Libreria\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Omar Salomé\3D Objects\Files\Archivo\ProyectoLibreria\Libreria\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Omar Salomé\3D Objects\Files\Archivo\ProyectoLibreria\Libreria\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Omar Salomé\3D Objects\Files\Archivo\ProyectoLibreria\Libreria\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Omar Salomé\3D Objects\Files\Archivo\ProyectoLibreria\Libreria\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Omar Salomé\3D Objects\Files\Archivo\ProyectoLibreria\Libreria\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Omar Salomé\3D Objects\Files\Archivo\ProyectoLibreria\Libreria\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Omar Salomé\3D Objects\Files\Archivo\ProyectoLibreria\Libreria\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\Omar Salomé\3D Objects\Files\Archivo\ProyectoLibreria\Libreria\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Omar Salomé\3D Objects\Files\Archivo\ProyectoLibreria\Libreria\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Omar Salomé\3D Objects\Files\Archivo\ProyectoLibreria\Libreria\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Omar Salomé\3D Objects\Files\Archivo\ProyectoLibreria\Libreria\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Omar Salomé\3D Objects\Files\Archivo\ProyectoLibreria\Libreria\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Omar Salomé\3D Objects\Files\Archivo\ProyectoLibreria\Libreria\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Omar Salomé\3D Objects\Files\Archivo\ProyectoLibreria\Libreria\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Omar Salomé\3D Objects\Files\Archivo\ProyectoLibreria\Libreria\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Omar Salomé\3D Objects\Files\Archivo\ProyectoLibreria\Libreria\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Omar Salomé\3D Objects\Files\Archivo\ProyectoLibreria\Libreria\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Omar Salomé\3D Objects\Files\Archivo\ProyectoLibreria\Libreria\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Omar Salomé\3D Objects\Files\Archivo\ProyectoLibreria\Libreria\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Omar Salomé\3D Objects\Files\Archivo\ProyectoLibreria\Libreria\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Omar Salomé\3D Objects\Files\Archivo\ProyectoLibreria\Libreria\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Omar Salomé\3D Objects\Files\Archivo\ProyectoLibreria\Libreria\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Omar Salomé\3D Objects\Files\Archivo\ProyectoLibreria\Libreria\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Omar Salomé\3D Objects\Files\Archivo\ProyectoLibreria\Libreria\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Omar Salomé\3D Objects\Files\Archivo\ProyectoLibreria\Libreria\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Omar Salomé\3D Objects\Files\Archivo\ProyectoLibreria\Libreria\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Omar Salomé\3D Objects\Files\Archivo\ProyectoLibreria\Libreria\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Omar Salomé\3D Objects\Files\Archivo\ProyectoLibreria\Libreria\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Omar Salomé\3D Objects\Files\Archivo\ProyectoLibreria\Libreria\bin\Debug\net5.0\CAPA_DATOS.dll
+C:\Users\Omar Salomé\3D Objects\Files\Archivo\ProyectoLibreria\Libreria\bin\Debug\net5.0\CAPA_NEGOCIO.dll
+C:\Users\Omar Salomé\3D Objects\Files\Archivo\ProyectoLibreria\Libreria\bin\Debug\net5.0\CAPA_NEGOCIO.pdb
+C:\Users\Omar Salomé\3D Objects\Files\Archivo\ProyectoLibreria\Libreria\bin\Debug\net5.0\CAPA_DATOS.pdb
+C:\Users\Omar Salomé\3D Objects\Files\Archivo\ProyectoLibreria\Libreria\obj\Debug\net5.0\Libreria.csproj.AssemblyReference.cache
+C:\Users\Omar Salomé\3D Objects\Files\Archivo\ProyectoLibreria\Libreria\obj\Debug\net5.0\Libreria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omar Salomé\3D Objects\Files\Archivo\ProyectoLibreria\Libreria\obj\Debug\net5.0\Libreria.AssemblyInfoInputs.cache
+C:\Users\Omar Salomé\3D Objects\Files\Archivo\ProyectoLibreria\Libreria\obj\Debug\net5.0\Libreria.AssemblyInfo.cs
+C:\Users\Omar Salomé\3D Objects\Files\Archivo\ProyectoLibreria\Libreria\obj\Debug\net5.0\Libreria.csproj.CoreCompileInputs.cache
+C:\Users\Omar Salomé\3D Objects\Files\Archivo\ProyectoLibreria\Libreria\obj\Debug\net5.0\Libreria.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Omar Salomé\3D Objects\Files\Archivo\ProyectoLibreria\Libreria\obj\Debug\net5.0\Libreria.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Omar Salomé\3D Objects\Files\Archivo\ProyectoLibreria\Libreria\obj\Debug\net5.0\Libreria.RazorAssemblyInfo.cache
+C:\Users\Omar Salomé\3D Objects\Files\Archivo\ProyectoLibreria\Libreria\obj\Debug\net5.0\Libreria.RazorAssemblyInfo.cs
+C:\Users\Omar Salomé\3D Objects\Files\Archivo\ProyectoLibreria\Libreria\obj\Debug\net5.0\scopedcss\bundle\Libreria.styles.css
+C:\Users\Omar Salomé\3D Objects\Files\Archivo\ProyectoLibreria\Libreria\obj\Debug\net5.0\staticwebassets\Libreria.StaticWebAssets.Manifest.cache
+C:\Users\Omar Salomé\3D Objects\Files\Archivo\ProyectoLibreria\Libreria\obj\Debug\net5.0\staticwebassets\Libreria.StaticWebAssets.xml
+C:\Users\Omar Salomé\3D Objects\Files\Archivo\ProyectoLibreria\Libreria\obj\Debug\net5.0\Libreria.TagHelpers.input.cache
+C:\Users\Omar Salomé\3D Objects\Files\Archivo\ProyectoLibreria\Libreria\obj\Debug\net5.0\Libreria.TagHelpers.output.cache
+C:\Users\Omar Salomé\3D Objects\Files\Archivo\ProyectoLibreria\Libreria\obj\Debug\net5.0\Libreria.RazorCoreGenerate.cache
+C:\Users\Omar Salomé\3D Objects\Files\Archivo\ProyectoLibreria\Libreria\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Omar Salomé\3D Objects\Files\Archivo\ProyectoLibreria\Libreria\obj\Debug\net5.0\Razor\Pages\Catalogos\BodegaView.cshtml.g.cs
+C:\Users\Omar Salomé\3D Objects\Files\Archivo\ProyectoLibreria\Libreria\obj\Debug\net5.0\Razor\Pages\Catalogos\CategView.cshtml.g.cs
+C:\Users\Omar Salomé\3D Objects\Files\Archivo\ProyectoLibreria\Libreria\obj\Debug\net5.0\Razor\Pages\Catalogos\ProductoPag.cshtml.g.cs
+C:\Users\Omar Salomé\3D Objects\Files\Archivo\ProyectoLibreria\Libreria\obj\Debug\net5.0\Razor\Pages\Catalogos\ProvView.cshtml.g.cs
+C:\Users\Omar Salomé\3D Objects\Files\Archivo\ProyectoLibreria\Libreria\obj\Debug\net5.0\Razor\Pages\Catalogos\UsuarioView.cshtml.g.cs
+C:\Users\Omar Salomé\3D Objects\Files\Archivo\ProyectoLibreria\Libreria\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Omar Salomé\3D Objects\Files\Archivo\ProyectoLibreria\Libreria\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Omar Salomé\3D Objects\Files\Archivo\ProyectoLibreria\Libreria\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Omar Salomé\3D Objects\Files\Archivo\ProyectoLibreria\Libreria\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Omar Salomé\3D Objects\Files\Archivo\ProyectoLibreria\Libreria\obj\Debug\net5.0\Razor\Pages\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Omar Salomé\3D Objects\Files\Archivo\ProyectoLibreria\Libreria\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Omar Salomé\3D Objects\Files\Archivo\ProyectoLibreria\Libreria\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Omar Salomé\3D Objects\Files\Archivo\ProyectoLibreria\Libreria\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Omar Salomé\3D Objects\Files\Archivo\ProyectoLibreria\Libreria\obj\Debug\net5.0\Libreria.RazorTargetAssemblyInfo.cache
+C:\Users\Omar Salomé\3D Objects\Files\Archivo\ProyectoLibreria\Libreria\obj\Debug\net5.0\Libreria.RazorTargetAssemblyInfo.cs
+C:\Users\Omar Salomé\3D Objects\Files\Archivo\ProyectoLibreria\Libreria\obj\Debug\net5.0\Libreria.Views.pdb
+C:\Users\Omar Salomé\3D Objects\Files\Archivo\ProyectoLibreria\Libreria\obj\Debug\net5.0\Libreria.csproj.CopyComplete
+C:\Users\Omar Salomé\3D Objects\Files\Archivo\ProyectoLibreria\Libreria\obj\Debug\net5.0\Libreria.dll
+C:\Users\Omar Salomé\3D Objects\Files\Archivo\ProyectoLibreria\Libreria\obj\Debug\net5.0\refint\Libreria.dll
+C:\Users\Omar Salomé\3D Objects\Files\Archivo\ProyectoLibreria\Libreria\obj\Debug\net5.0\Libreria.pdb
+C:\Users\Omar Salomé\3D Objects\Files\Archivo\ProyectoLibreria\Libreria\obj\Debug\net5.0\Libreria.genruntimeconfig.cache
+C:\Users\Omar Salomé\3D Objects\Files\Archivo\ProyectoLibreria\Libreria\obj\Debug\net5.0\ref\Libreria.dll
+C:\Users\nery6\Documents\ProyectoLibreria\Libreria\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\nery6\Documents\ProyectoLibreria\Libreria\bin\Debug\net5.0\appsettings.json
+C:\Users\nery6\Documents\ProyectoLibreria\Libreria\bin\Debug\net5.0\Libreria.StaticWebAssets.xml
+C:\Users\nery6\Documents\ProyectoLibreria\Libreria\bin\Debug\net5.0\Libreria.exe
+C:\Users\nery6\Documents\ProyectoLibreria\Libreria\bin\Debug\net5.0\Libreria.deps.json
+C:\Users\nery6\Documents\ProyectoLibreria\Libreria\bin\Debug\net5.0\Libreria.runtimeconfig.json
+C:\Users\nery6\Documents\ProyectoLibreria\Libreria\bin\Debug\net5.0\Libreria.runtimeconfig.dev.json
+C:\Users\nery6\Documents\ProyectoLibreria\Libreria\bin\Debug\net5.0\Libreria.dll
+C:\Users\nery6\Documents\ProyectoLibreria\Libreria\bin\Debug\net5.0\ref\Libreria.dll
+C:\Users\nery6\Documents\ProyectoLibreria\Libreria\bin\Debug\net5.0\Libreria.pdb
+C:\Users\nery6\Documents\ProyectoLibreria\Libreria\bin\Debug\net5.0\Libreria.Views.dll
+C:\Users\nery6\Documents\ProyectoLibreria\Libreria\bin\Debug\net5.0\Libreria.Views.pdb
+C:\Users\nery6\Documents\ProyectoLibreria\Libreria\bin\Debug\net5.0\Humanizer.dll
+C:\Users\nery6\Documents\ProyectoLibreria\Libreria\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\nery6\Documents\ProyectoLibreria\Libreria\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\nery6\Documents\ProyectoLibreria\Libreria\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\nery6\Documents\ProyectoLibreria\Libreria\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\nery6\Documents\ProyectoLibreria\Libreria\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\nery6\Documents\ProyectoLibreria\Libreria\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\nery6\Documents\ProyectoLibreria\Libreria\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\nery6\Documents\ProyectoLibreria\Libreria\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\nery6\Documents\ProyectoLibreria\Libreria\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\nery6\Documents\ProyectoLibreria\Libreria\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\nery6\Documents\ProyectoLibreria\Libreria\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\nery6\Documents\ProyectoLibreria\Libreria\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\nery6\Documents\ProyectoLibreria\Libreria\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\nery6\Documents\ProyectoLibreria\Libreria\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\nery6\Documents\ProyectoLibreria\Libreria\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\nery6\Documents\ProyectoLibreria\Libreria\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\nery6\Documents\ProyectoLibreria\Libreria\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\nery6\Documents\ProyectoLibreria\Libreria\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\nery6\Documents\ProyectoLibreria\Libreria\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\nery6\Documents\ProyectoLibreria\Libreria\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\nery6\Documents\ProyectoLibreria\Libreria\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\nery6\Documents\ProyectoLibreria\Libreria\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\nery6\Documents\ProyectoLibreria\Libreria\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\nery6\Documents\ProyectoLibreria\Libreria\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\nery6\Documents\ProyectoLibreria\Libreria\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\nery6\Documents\ProyectoLibreria\Libreria\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nery6\Documents\ProyectoLibreria\Libreria\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nery6\Documents\ProyectoLibreria\Libreria\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\nery6\Documents\ProyectoLibreria\Libreria\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nery6\Documents\ProyectoLibreria\Libreria\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\nery6\Documents\ProyectoLibreria\Libreria\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\nery6\Documents\ProyectoLibreria\Libreria\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nery6\Documents\ProyectoLibreria\Libreria\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\nery6\Documents\ProyectoLibreria\Libreria\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nery6\Documents\ProyectoLibreria\Libreria\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\nery6\Documents\ProyectoLibreria\Libreria\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nery6\Documents\ProyectoLibreria\Libreria\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\nery6\Documents\ProyectoLibreria\Libreria\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nery6\Documents\ProyectoLibreria\Libreria\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\nery6\Documents\ProyectoLibreria\Libreria\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\nery6\Documents\ProyectoLibreria\Libreria\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\nery6\Documents\ProyectoLibreria\Libreria\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\nery6\Documents\ProyectoLibreria\Libreria\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nery6\Documents\ProyectoLibreria\Libreria\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nery6\Documents\ProyectoLibreria\Libreria\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\nery6\Documents\ProyectoLibreria\Libreria\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nery6\Documents\ProyectoLibreria\Libreria\bin\Debug\net5.0\CAPA_DATOS.dll
+C:\Users\nery6\Documents\ProyectoLibreria\Libreria\bin\Debug\net5.0\CAPA_NEGOCIO.dll
+C:\Users\nery6\Documents\ProyectoLibreria\Libreria\bin\Debug\net5.0\CAPA_NEGOCIO.pdb
+C:\Users\nery6\Documents\ProyectoLibreria\Libreria\bin\Debug\net5.0\CAPA_DATOS.pdb
+C:\Users\nery6\Documents\ProyectoLibreria\Libreria\obj\Debug\net5.0\Libreria.csproj.AssemblyReference.cache
+C:\Users\nery6\Documents\ProyectoLibreria\Libreria\obj\Debug\net5.0\Libreria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nery6\Documents\ProyectoLibreria\Libreria\obj\Debug\net5.0\Libreria.AssemblyInfoInputs.cache
+C:\Users\nery6\Documents\ProyectoLibreria\Libreria\obj\Debug\net5.0\Libreria.AssemblyInfo.cs
+C:\Users\nery6\Documents\ProyectoLibreria\Libreria\obj\Debug\net5.0\Libreria.csproj.CoreCompileInputs.cache
+C:\Users\nery6\Documents\ProyectoLibreria\Libreria\obj\Debug\net5.0\Libreria.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\nery6\Documents\ProyectoLibreria\Libreria\obj\Debug\net5.0\Libreria.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nery6\Documents\ProyectoLibreria\Libreria\obj\Debug\net5.0\Libreria.RazorAssemblyInfo.cache
+C:\Users\nery6\Documents\ProyectoLibreria\Libreria\obj\Debug\net5.0\Libreria.RazorAssemblyInfo.cs
+C:\Users\nery6\Documents\ProyectoLibreria\Libreria\obj\Debug\net5.0\staticwebassets\Libreria.StaticWebAssets.Manifest.cache
+C:\Users\nery6\Documents\ProyectoLibreria\Libreria\obj\Debug\net5.0\staticwebassets\Libreria.StaticWebAssets.xml
+C:\Users\nery6\Documents\ProyectoLibreria\Libreria\obj\Debug\net5.0\scopedcss\bundle\Libreria.styles.css
+C:\Users\nery6\Documents\ProyectoLibreria\Libreria\obj\Debug\net5.0\Libreria.TagHelpers.input.cache
+C:\Users\nery6\Documents\ProyectoLibreria\Libreria\obj\Debug\net5.0\Libreria.TagHelpers.output.cache
+C:\Users\nery6\Documents\ProyectoLibreria\Libreria\obj\Debug\net5.0\Libreria.RazorCoreGenerate.cache
+C:\Users\nery6\Documents\ProyectoLibreria\Libreria\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\nery6\Documents\ProyectoLibreria\Libreria\obj\Debug\net5.0\Razor\Pages\Catalogos\BodegaView.cshtml.g.cs
+C:\Users\nery6\Documents\ProyectoLibreria\Libreria\obj\Debug\net5.0\Razor\Pages\Catalogos\CategView.cshtml.g.cs
+C:\Users\nery6\Documents\ProyectoLibreria\Libreria\obj\Debug\net5.0\Razor\Pages\Catalogos\ProductoPag.cshtml.g.cs
+C:\Users\nery6\Documents\ProyectoLibreria\Libreria\obj\Debug\net5.0\Razor\Pages\Catalogos\ProvView.cshtml.g.cs
+C:\Users\nery6\Documents\ProyectoLibreria\Libreria\obj\Debug\net5.0\Razor\Pages\Catalogos\UsuarioView.cshtml.g.cs
+C:\Users\nery6\Documents\ProyectoLibreria\Libreria\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\nery6\Documents\ProyectoLibreria\Libreria\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\nery6\Documents\ProyectoLibreria\Libreria\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\nery6\Documents\ProyectoLibreria\Libreria\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\nery6\Documents\ProyectoLibreria\Libreria\obj\Debug\net5.0\Razor\Pages\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\nery6\Documents\ProyectoLibreria\Libreria\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\nery6\Documents\ProyectoLibreria\Libreria\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\nery6\Documents\ProyectoLibreria\Libreria\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\nery6\Documents\ProyectoLibreria\Libreria\obj\Debug\net5.0\Libreria.RazorTargetAssemblyInfo.cache
+C:\Users\nery6\Documents\ProyectoLibreria\Libreria\obj\Debug\net5.0\Libreria.RazorTargetAssemblyInfo.cs
+C:\Users\nery6\Documents\ProyectoLibreria\Libreria\obj\Debug\net5.0\Libreria.Views.pdb
+C:\Users\nery6\Documents\ProyectoLibreria\Libreria\obj\Debug\net5.0\Libreria.csproj.CopyComplete
+C:\Users\nery6\Documents\ProyectoLibreria\Libreria\obj\Debug\net5.0\Libreria.dll
+C:\Users\nery6\Documents\ProyectoLibreria\Libreria\obj\Debug\net5.0\ref\Libreria.dll
+C:\Users\nery6\Documents\ProyectoLibreria\Libreria\obj\Debug\net5.0\Libreria.pdb
+C:\Users\nery6\Documents\ProyectoLibreria\Libreria\obj\Debug\net5.0\Libreria.genruntimeconfig.cache
+C:\Users\nery6\Desktop\Testing\sistem.lib-testproject\Libreria\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\nery6\Desktop\Testing\sistem.lib-testproject\Libreria\bin\Debug\net5.0\appsettings.json
+C:\Users\nery6\Desktop\Testing\sistem.lib-testproject\Libreria\bin\Debug\net5.0\Libreria.StaticWebAssets.xml
+C:\Users\nery6\Desktop\Testing\sistem.lib-testproject\Libreria\bin\Debug\net5.0\Libreria.exe
+C:\Users\nery6\Desktop\Testing\sistem.lib-testproject\Libreria\bin\Debug\net5.0\Libreria.deps.json
+C:\Users\nery6\Desktop\Testing\sistem.lib-testproject\Libreria\bin\Debug\net5.0\Libreria.runtimeconfig.json
+C:\Users\nery6\Desktop\Testing\sistem.lib-testproject\Libreria\bin\Debug\net5.0\Libreria.runtimeconfig.dev.json
+C:\Users\nery6\Desktop\Testing\sistem.lib-testproject\Libreria\bin\Debug\net5.0\Libreria.dll
+C:\Users\nery6\Desktop\Testing\sistem.lib-testproject\Libreria\bin\Debug\net5.0\ref\Libreria.dll
+C:\Users\nery6\Desktop\Testing\sistem.lib-testproject\Libreria\bin\Debug\net5.0\Libreria.pdb
+C:\Users\nery6\Desktop\Testing\sistem.lib-testproject\Libreria\bin\Debug\net5.0\Libreria.Views.dll
+C:\Users\nery6\Desktop\Testing\sistem.lib-testproject\Libreria\bin\Debug\net5.0\Libreria.Views.pdb
+C:\Users\nery6\Desktop\Testing\sistem.lib-testproject\Libreria\bin\Debug\net5.0\Humanizer.dll
+C:\Users\nery6\Desktop\Testing\sistem.lib-testproject\Libreria\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\nery6\Desktop\Testing\sistem.lib-testproject\Libreria\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\nery6\Desktop\Testing\sistem.lib-testproject\Libreria\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\nery6\Desktop\Testing\sistem.lib-testproject\Libreria\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\nery6\Desktop\Testing\sistem.lib-testproject\Libreria\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\nery6\Desktop\Testing\sistem.lib-testproject\Libreria\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\nery6\Desktop\Testing\sistem.lib-testproject\Libreria\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\nery6\Desktop\Testing\sistem.lib-testproject\Libreria\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\nery6\Desktop\Testing\sistem.lib-testproject\Libreria\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\nery6\Desktop\Testing\sistem.lib-testproject\Libreria\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\nery6\Desktop\Testing\sistem.lib-testproject\Libreria\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\nery6\Desktop\Testing\sistem.lib-testproject\Libreria\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\nery6\Desktop\Testing\sistem.lib-testproject\Libreria\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\nery6\Desktop\Testing\sistem.lib-testproject\Libreria\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\nery6\Desktop\Testing\sistem.lib-testproject\Libreria\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\nery6\Desktop\Testing\sistem.lib-testproject\Libreria\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\nery6\Desktop\Testing\sistem.lib-testproject\Libreria\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\nery6\Desktop\Testing\sistem.lib-testproject\Libreria\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\nery6\Desktop\Testing\sistem.lib-testproject\Libreria\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\nery6\Desktop\Testing\sistem.lib-testproject\Libreria\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\nery6\Desktop\Testing\sistem.lib-testproject\Libreria\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\nery6\Desktop\Testing\sistem.lib-testproject\Libreria\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\nery6\Desktop\Testing\sistem.lib-testproject\Libreria\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\nery6\Desktop\Testing\sistem.lib-testproject\Libreria\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\nery6\Desktop\Testing\sistem.lib-testproject\Libreria\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\nery6\Desktop\Testing\sistem.lib-testproject\Libreria\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nery6\Desktop\Testing\sistem.lib-testproject\Libreria\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nery6\Desktop\Testing\sistem.lib-testproject\Libreria\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\nery6\Desktop\Testing\sistem.lib-testproject\Libreria\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nery6\Desktop\Testing\sistem.lib-testproject\Libreria\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\nery6\Desktop\Testing\sistem.lib-testproject\Libreria\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\nery6\Desktop\Testing\sistem.lib-testproject\Libreria\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nery6\Desktop\Testing\sistem.lib-testproject\Libreria\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\nery6\Desktop\Testing\sistem.lib-testproject\Libreria\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nery6\Desktop\Testing\sistem.lib-testproject\Libreria\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\nery6\Desktop\Testing\sistem.lib-testproject\Libreria\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nery6\Desktop\Testing\sistem.lib-testproject\Libreria\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\nery6\Desktop\Testing\sistem.lib-testproject\Libreria\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nery6\Desktop\Testing\sistem.lib-testproject\Libreria\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\nery6\Desktop\Testing\sistem.lib-testproject\Libreria\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\nery6\Desktop\Testing\sistem.lib-testproject\Libreria\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\nery6\Desktop\Testing\sistem.lib-testproject\Libreria\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\nery6\Desktop\Testing\sistem.lib-testproject\Libreria\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nery6\Desktop\Testing\sistem.lib-testproject\Libreria\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nery6\Desktop\Testing\sistem.lib-testproject\Libreria\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\nery6\Desktop\Testing\sistem.lib-testproject\Libreria\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nery6\Desktop\Testing\sistem.lib-testproject\Libreria\bin\Debug\net5.0\CAPA_DATOS.dll
+C:\Users\nery6\Desktop\Testing\sistem.lib-testproject\Libreria\bin\Debug\net5.0\CAPA_NEGOCIO.dll
+C:\Users\nery6\Desktop\Testing\sistem.lib-testproject\Libreria\bin\Debug\net5.0\CAPA_NEGOCIO.pdb
+C:\Users\nery6\Desktop\Testing\sistem.lib-testproject\Libreria\bin\Debug\net5.0\CAPA_DATOS.pdb
+C:\Users\nery6\Desktop\Testing\sistem.lib-testproject\Libreria\obj\Debug\net5.0\Libreria.csproj.AssemblyReference.cache
+C:\Users\nery6\Desktop\Testing\sistem.lib-testproject\Libreria\obj\Debug\net5.0\Libreria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nery6\Desktop\Testing\sistem.lib-testproject\Libreria\obj\Debug\net5.0\Libreria.AssemblyInfoInputs.cache
+C:\Users\nery6\Desktop\Testing\sistem.lib-testproject\Libreria\obj\Debug\net5.0\Libreria.AssemblyInfo.cs
+C:\Users\nery6\Desktop\Testing\sistem.lib-testproject\Libreria\obj\Debug\net5.0\Libreria.csproj.CoreCompileInputs.cache
+C:\Users\nery6\Desktop\Testing\sistem.lib-testproject\Libreria\obj\Debug\net5.0\Libreria.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\nery6\Desktop\Testing\sistem.lib-testproject\Libreria\obj\Debug\net5.0\Libreria.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nery6\Desktop\Testing\sistem.lib-testproject\Libreria\obj\Debug\net5.0\Libreria.RazorAssemblyInfo.cache
+C:\Users\nery6\Desktop\Testing\sistem.lib-testproject\Libreria\obj\Debug\net5.0\Libreria.RazorAssemblyInfo.cs
+C:\Users\nery6\Desktop\Testing\sistem.lib-testproject\Libreria\obj\Debug\net5.0\staticwebassets\Libreria.StaticWebAssets.Manifest.cache
+C:\Users\nery6\Desktop\Testing\sistem.lib-testproject\Libreria\obj\Debug\net5.0\staticwebassets\Libreria.StaticWebAssets.xml
+C:\Users\nery6\Desktop\Testing\sistem.lib-testproject\Libreria\obj\Debug\net5.0\scopedcss\bundle\Libreria.styles.css
+C:\Users\nery6\Desktop\Testing\sistem.lib-testproject\Libreria\obj\Debug\net5.0\Libreria.TagHelpers.input.cache
+C:\Users\nery6\Desktop\Testing\sistem.lib-testproject\Libreria\obj\Debug\net5.0\Libreria.TagHelpers.output.cache
+C:\Users\nery6\Desktop\Testing\sistem.lib-testproject\Libreria\obj\Debug\net5.0\Libreria.RazorCoreGenerate.cache
+C:\Users\nery6\Desktop\Testing\sistem.lib-testproject\Libreria\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\nery6\Desktop\Testing\sistem.lib-testproject\Libreria\obj\Debug\net5.0\Razor\Pages\Catalogos\BodegaView.cshtml.g.cs
+C:\Users\nery6\Desktop\Testing\sistem.lib-testproject\Libreria\obj\Debug\net5.0\Razor\Pages\Catalogos\CategView.cshtml.g.cs
+C:\Users\nery6\Desktop\Testing\sistem.lib-testproject\Libreria\obj\Debug\net5.0\Razor\Pages\Catalogos\CompraView.cshtml.g.cs
+C:\Users\nery6\Desktop\Testing\sistem.lib-testproject\Libreria\obj\Debug\net5.0\Razor\Pages\Catalogos\ProductoPag.cshtml.g.cs
+C:\Users\nery6\Desktop\Testing\sistem.lib-testproject\Libreria\obj\Debug\net5.0\Razor\Pages\Catalogos\ProvView.cshtml.g.cs
+C:\Users\nery6\Desktop\Testing\sistem.lib-testproject\Libreria\obj\Debug\net5.0\Razor\Pages\Catalogos\UsuarioView.cshtml.g.cs
+C:\Users\nery6\Desktop\Testing\sistem.lib-testproject\Libreria\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\nery6\Desktop\Testing\sistem.lib-testproject\Libreria\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\nery6\Desktop\Testing\sistem.lib-testproject\Libreria\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\nery6\Desktop\Testing\sistem.lib-testproject\Libreria\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\nery6\Desktop\Testing\sistem.lib-testproject\Libreria\obj\Debug\net5.0\Razor\Pages\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\nery6\Desktop\Testing\sistem.lib-testproject\Libreria\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\nery6\Desktop\Testing\sistem.lib-testproject\Libreria\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\nery6\Desktop\Testing\sistem.lib-testproject\Libreria\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\nery6\Desktop\Testing\sistem.lib-testproject\Libreria\obj\Debug\net5.0\Libreria.RazorTargetAssemblyInfo.cache
+C:\Users\nery6\Desktop\Testing\sistem.lib-testproject\Libreria\obj\Debug\net5.0\Libreria.RazorTargetAssemblyInfo.cs
+C:\Users\nery6\Desktop\Testing\sistem.lib-testproject\Libreria\obj\Debug\net5.0\Libreria.Views.pdb
+C:\Users\nery6\Desktop\Testing\sistem.lib-testproject\Libreria\obj\Debug\net5.0\Libreria.csproj.CopyComplete
+C:\Users\nery6\Desktop\Testing\sistem.lib-testproject\Libreria\obj\Debug\net5.0\Libreria.dll
+C:\Users\nery6\Desktop\Testing\sistem.lib-testproject\Libreria\obj\Debug\net5.0\ref\Libreria.dll
+C:\Users\nery6\Desktop\Testing\sistem.lib-testproject\Libreria\obj\Debug\net5.0\Libreria.pdb
+C:\Users\nery6\Desktop\Testing\sistem.lib-testproject\Libreria\obj\Debug\net5.0\Libreria.genruntimeconfig.cache
+C:\Users\nery6\Desktop\Testing\sistem.lib-testproject\Libreria\obj\Debug\net5.0\Razor\Pages\Catalogos\CompraDetView.cshtml.g.cs
+C:\Users\nery6\Desktop\Testing\sistem.lib-testproject\Libreria\obj\Debug\net5.0\Razor\Pages\Catalogos\StockView.cshtml.g.cs
+C:\Users\Omar Salomé\Documents\sql\H2O\BD procedimeineto de almacenado\Testing\sistem.lib-testproject\Libreria\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Omar Salomé\Documents\sql\H2O\BD procedimeineto de almacenado\Testing\sistem.lib-testproject\Libreria\bin\Debug\net5.0\appsettings.json
+C:\Users\Omar Salomé\Documents\sql\H2O\BD procedimeineto de almacenado\Testing\sistem.lib-testproject\Libreria\bin\Debug\net5.0\Libreria.StaticWebAssets.xml
+C:\Users\Omar Salomé\Documents\sql\H2O\BD procedimeineto de almacenado\Testing\sistem.lib-testproject\Libreria\bin\Debug\net5.0\Libreria.exe
+C:\Users\Omar Salomé\Documents\sql\H2O\BD procedimeineto de almacenado\Testing\sistem.lib-testproject\Libreria\bin\Debug\net5.0\Libreria.deps.json
+C:\Users\Omar Salomé\Documents\sql\H2O\BD procedimeineto de almacenado\Testing\sistem.lib-testproject\Libreria\bin\Debug\net5.0\Libreria.runtimeconfig.json
+C:\Users\Omar Salomé\Documents\sql\H2O\BD procedimeineto de almacenado\Testing\sistem.lib-testproject\Libreria\bin\Debug\net5.0\Libreria.runtimeconfig.dev.json
+C:\Users\Omar Salomé\Documents\sql\H2O\BD procedimeineto de almacenado\Testing\sistem.lib-testproject\Libreria\bin\Debug\net5.0\Libreria.dll
+C:\Users\Omar Salomé\Documents\sql\H2O\BD procedimeineto de almacenado\Testing\sistem.lib-testproject\Libreria\bin\Debug\net5.0\Libreria.pdb
+C:\Users\Omar Salomé\Documents\sql\H2O\BD procedimeineto de almacenado\Testing\sistem.lib-testproject\Libreria\bin\Debug\net5.0\Libreria.Views.dll
+C:\Users\Omar Salomé\Documents\sql\H2O\BD procedimeineto de almacenado\Testing\sistem.lib-testproject\Libreria\bin\Debug\net5.0\Libreria.Views.pdb
+C:\Users\Omar Salomé\Documents\sql\H2O\BD procedimeineto de almacenado\Testing\sistem.lib-testproject\Libreria\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Omar Salomé\Documents\sql\H2O\BD procedimeineto de almacenado\Testing\sistem.lib-testproject\Libreria\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Omar Salomé\Documents\sql\H2O\BD procedimeineto de almacenado\Testing\sistem.lib-testproject\Libreria\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Omar Salomé\Documents\sql\H2O\BD procedimeineto de almacenado\Testing\sistem.lib-testproject\Libreria\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Omar Salomé\Documents\sql\H2O\BD procedimeineto de almacenado\Testing\sistem.lib-testproject\Libreria\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Omar Salomé\Documents\sql\H2O\BD procedimeineto de almacenado\Testing\sistem.lib-testproject\Libreria\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\Omar Salomé\Documents\sql\H2O\BD procedimeineto de almacenado\Testing\sistem.lib-testproject\Libreria\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Omar Salomé\Documents\sql\H2O\BD procedimeineto de almacenado\Testing\sistem.lib-testproject\Libreria\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Omar Salomé\Documents\sql\H2O\BD procedimeineto de almacenado\Testing\sistem.lib-testproject\Libreria\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Omar Salomé\Documents\sql\H2O\BD procedimeineto de almacenado\Testing\sistem.lib-testproject\Libreria\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Omar Salomé\Documents\sql\H2O\BD procedimeineto de almacenado\Testing\sistem.lib-testproject\Libreria\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Omar Salomé\Documents\sql\H2O\BD procedimeineto de almacenado\Testing\sistem.lib-testproject\Libreria\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Omar Salomé\Documents\sql\H2O\BD procedimeineto de almacenado\Testing\sistem.lib-testproject\Libreria\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Omar Salomé\Documents\sql\H2O\BD procedimeineto de almacenado\Testing\sistem.lib-testproject\Libreria\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Omar Salomé\Documents\sql\H2O\BD procedimeineto de almacenado\Testing\sistem.lib-testproject\Libreria\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Omar Salomé\Documents\sql\H2O\BD procedimeineto de almacenado\Testing\sistem.lib-testproject\Libreria\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Omar Salomé\Documents\sql\H2O\BD procedimeineto de almacenado\Testing\sistem.lib-testproject\Libreria\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Omar Salomé\Documents\sql\H2O\BD procedimeineto de almacenado\Testing\sistem.lib-testproject\Libreria\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Omar Salomé\Documents\sql\H2O\BD procedimeineto de almacenado\Testing\sistem.lib-testproject\Libreria\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Omar Salomé\Documents\sql\H2O\BD procedimeineto de almacenado\Testing\sistem.lib-testproject\Libreria\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Omar Salomé\Documents\sql\H2O\BD procedimeineto de almacenado\Testing\sistem.lib-testproject\Libreria\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Omar Salomé\Documents\sql\H2O\BD procedimeineto de almacenado\Testing\sistem.lib-testproject\Libreria\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Omar Salomé\Documents\sql\H2O\BD procedimeineto de almacenado\Testing\sistem.lib-testproject\Libreria\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Omar Salomé\Documents\sql\H2O\BD procedimeineto de almacenado\Testing\sistem.lib-testproject\Libreria\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Omar Salomé\Documents\sql\H2O\BD procedimeineto de almacenado\Testing\sistem.lib-testproject\Libreria\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Omar Salomé\Documents\sql\H2O\BD procedimeineto de almacenado\Testing\sistem.lib-testproject\Libreria\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\Omar Salomé\Documents\sql\H2O\BD procedimeineto de almacenado\Testing\sistem.lib-testproject\Libreria\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Omar Salomé\Documents\sql\H2O\BD procedimeineto de almacenado\Testing\sistem.lib-testproject\Libreria\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Omar Salomé\Documents\sql\H2O\BD procedimeineto de almacenado\Testing\sistem.lib-testproject\Libreria\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Omar Salomé\Documents\sql\H2O\BD procedimeineto de almacenado\Testing\sistem.lib-testproject\Libreria\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Omar Salomé\Documents\sql\H2O\BD procedimeineto de almacenado\Testing\sistem.lib-testproject\Libreria\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Omar Salomé\Documents\sql\H2O\BD procedimeineto de almacenado\Testing\sistem.lib-testproject\Libreria\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Omar Salomé\Documents\sql\H2O\BD procedimeineto de almacenado\Testing\sistem.lib-testproject\Libreria\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Omar Salomé\Documents\sql\H2O\BD procedimeineto de almacenado\Testing\sistem.lib-testproject\Libreria\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Omar Salomé\Documents\sql\H2O\BD procedimeineto de almacenado\Testing\sistem.lib-testproject\Libreria\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Omar Salomé\Documents\sql\H2O\BD procedimeineto de almacenado\Testing\sistem.lib-testproject\Libreria\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Omar Salomé\Documents\sql\H2O\BD procedimeineto de almacenado\Testing\sistem.lib-testproject\Libreria\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Omar Salomé\Documents\sql\H2O\BD procedimeineto de almacenado\Testing\sistem.lib-testproject\Libreria\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Omar Salomé\Documents\sql\H2O\BD procedimeineto de almacenado\Testing\sistem.lib-testproject\Libreria\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Omar Salomé\Documents\sql\H2O\BD procedimeineto de almacenado\Testing\sistem.lib-testproject\Libreria\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Omar Salomé\Documents\sql\H2O\BD procedimeineto de almacenado\Testing\sistem.lib-testproject\Libreria\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Omar Salomé\Documents\sql\H2O\BD procedimeineto de almacenado\Testing\sistem.lib-testproject\Libreria\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Omar Salomé\Documents\sql\H2O\BD procedimeineto de almacenado\Testing\sistem.lib-testproject\Libreria\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Omar Salomé\Documents\sql\H2O\BD procedimeineto de almacenado\Testing\sistem.lib-testproject\Libreria\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Omar Salomé\Documents\sql\H2O\BD procedimeineto de almacenado\Testing\sistem.lib-testproject\Libreria\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Omar Salomé\Documents\sql\H2O\BD procedimeineto de almacenado\Testing\sistem.lib-testproject\Libreria\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Omar Salomé\Documents\sql\H2O\BD procedimeineto de almacenado\Testing\sistem.lib-testproject\Libreria\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Omar Salomé\Documents\sql\H2O\BD procedimeineto de almacenado\Testing\sistem.lib-testproject\Libreria\bin\Debug\net5.0\CAPA_DATOS.dll
+C:\Users\Omar Salomé\Documents\sql\H2O\BD procedimeineto de almacenado\Testing\sistem.lib-testproject\Libreria\bin\Debug\net5.0\CAPA_NEGOCIO.dll
+C:\Users\Omar Salomé\Documents\sql\H2O\BD procedimeineto de almacenado\Testing\sistem.lib-testproject\Libreria\bin\Debug\net5.0\CAPA_NEGOCIO.pdb
+C:\Users\Omar Salomé\Documents\sql\H2O\BD procedimeineto de almacenado\Testing\sistem.lib-testproject\Libreria\bin\Debug\net5.0\CAPA_DATOS.pdb
+C:\Users\Omar Salomé\Documents\sql\H2O\BD procedimeineto de almacenado\Testing\sistem.lib-testproject\Libreria\obj\Debug\net5.0\Libreria.csproj.AssemblyReference.cache
+C:\Users\Omar Salomé\Documents\sql\H2O\BD procedimeineto de almacenado\Testing\sistem.lib-testproject\Libreria\obj\Debug\net5.0\Libreria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omar Salomé\Documents\sql\H2O\BD procedimeineto de almacenado\Testing\sistem.lib-testproject\Libreria\obj\Debug\net5.0\Libreria.AssemblyInfoInputs.cache
+C:\Users\Omar Salomé\Documents\sql\H2O\BD procedimeineto de almacenado\Testing\sistem.lib-testproject\Libreria\obj\Debug\net5.0\Libreria.AssemblyInfo.cs
+C:\Users\Omar Salomé\Documents\sql\H2O\BD procedimeineto de almacenado\Testing\sistem.lib-testproject\Libreria\obj\Debug\net5.0\Libreria.csproj.CoreCompileInputs.cache
+C:\Users\Omar Salomé\Documents\sql\H2O\BD procedimeineto de almacenado\Testing\sistem.lib-testproject\Libreria\obj\Debug\net5.0\Libreria.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Omar Salomé\Documents\sql\H2O\BD procedimeineto de almacenado\Testing\sistem.lib-testproject\Libreria\obj\Debug\net5.0\Libreria.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Omar Salomé\Documents\sql\H2O\BD procedimeineto de almacenado\Testing\sistem.lib-testproject\Libreria\obj\Debug\net5.0\Libreria.RazorAssemblyInfo.cache
+C:\Users\Omar Salomé\Documents\sql\H2O\BD procedimeineto de almacenado\Testing\sistem.lib-testproject\Libreria\obj\Debug\net5.0\Libreria.RazorAssemblyInfo.cs
+C:\Users\Omar Salomé\Documents\sql\H2O\BD procedimeineto de almacenado\Testing\sistem.lib-testproject\Libreria\obj\Debug\net5.0\scopedcss\bundle\Libreria.styles.css
+C:\Users\Omar Salomé\Documents\sql\H2O\BD procedimeineto de almacenado\Testing\sistem.lib-testproject\Libreria\obj\Debug\net5.0\staticwebassets\Libreria.StaticWebAssets.Manifest.cache
+C:\Users\Omar Salomé\Documents\sql\H2O\BD procedimeineto de almacenado\Testing\sistem.lib-testproject\Libreria\obj\Debug\net5.0\staticwebassets\Libreria.StaticWebAssets.xml
+C:\Users\Omar Salomé\Documents\sql\H2O\BD procedimeineto de almacenado\Testing\sistem.lib-testproject\Libreria\obj\Debug\net5.0\Libreria.TagHelpers.input.cache
+C:\Users\Omar Salomé\Documents\sql\H2O\BD procedimeineto de almacenado\Testing\sistem.lib-testproject\Libreria\obj\Debug\net5.0\Libreria.TagHelpers.output.cache
+C:\Users\Omar Salomé\Documents\sql\H2O\BD procedimeineto de almacenado\Testing\sistem.lib-testproject\Libreria\obj\Debug\net5.0\Libreria.RazorCoreGenerate.cache
+C:\Users\Omar Salomé\Documents\sql\H2O\BD procedimeineto de almacenado\Testing\sistem.lib-testproject\Libreria\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Omar Salomé\Documents\sql\H2O\BD procedimeineto de almacenado\Testing\sistem.lib-testproject\Libreria\obj\Debug\net5.0\Razor\Pages\Catalogos\BodegaView.cshtml.g.cs
+C:\Users\Omar Salomé\Documents\sql\H2O\BD procedimeineto de almacenado\Testing\sistem.lib-testproject\Libreria\obj\Debug\net5.0\Razor\Pages\Catalogos\CategView.cshtml.g.cs
+C:\Users\Omar Salomé\Documents\sql\H2O\BD procedimeineto de almacenado\Testing\sistem.lib-testproject\Libreria\obj\Debug\net5.0\Razor\Pages\Catalogos\CompraDetView.cshtml.g.cs
+C:\Users\Omar Salomé\Documents\sql\H2O\BD procedimeineto de almacenado\Testing\sistem.lib-testproject\Libreria\obj\Debug\net5.0\Razor\Pages\Catalogos\CompraView.cshtml.g.cs
+C:\Users\Omar Salomé\Documents\sql\H2O\BD procedimeineto de almacenado\Testing\sistem.lib-testproject\Libreria\obj\Debug\net5.0\Razor\Pages\Catalogos\ProductoPag.cshtml.g.cs
+C:\Users\Omar Salomé\Documents\sql\H2O\BD procedimeineto de almacenado\Testing\sistem.lib-testproject\Libreria\obj\Debug\net5.0\Razor\Pages\Catalogos\ProvView.cshtml.g.cs
+C:\Users\Omar Salomé\Documents\sql\H2O\BD procedimeineto de almacenado\Testing\sistem.lib-testproject\Libreria\obj\Debug\net5.0\Razor\Pages\Catalogos\StockView.cshtml.g.cs
+C:\Users\Omar Salomé\Documents\sql\H2O\BD procedimeineto de almacenado\Testing\sistem.lib-testproject\Libreria\obj\Debug\net5.0\Razor\Pages\Catalogos\UsuarioView.cshtml.g.cs
+C:\Users\Omar Salomé\Documents\sql\H2O\BD procedimeineto de almacenado\Testing\sistem.lib-testproject\Libreria\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Omar Salomé\Documents\sql\H2O\BD procedimeineto de almacenado\Testing\sistem.lib-testproject\Libreria\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Omar Salomé\Documents\sql\H2O\BD procedimeineto de almacenado\Testing\sistem.lib-testproject\Libreria\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Omar Salomé\Documents\sql\H2O\BD procedimeineto de almacenado\Testing\sistem.lib-testproject\Libreria\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Omar Salomé\Documents\sql\H2O\BD procedimeineto de almacenado\Testing\sistem.lib-testproject\Libreria\obj\Debug\net5.0\Razor\Pages\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Omar Salomé\Documents\sql\H2O\BD procedimeineto de almacenado\Testing\sistem.lib-testproject\Libreria\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Omar Salomé\Documents\sql\H2O\BD procedimeineto de almacenado\Testing\sistem.lib-testproject\Libreria\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Omar Salomé\Documents\sql\H2O\BD procedimeineto de almacenado\Testing\sistem.lib-testproject\Libreria\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Omar Salomé\Documents\sql\H2O\BD procedimeineto de almacenado\Testing\sistem.lib-testproject\Libreria\obj\Debug\net5.0\Libreria.RazorTargetAssemblyInfo.cache
+C:\Users\Omar Salomé\Documents\sql\H2O\BD procedimeineto de almacenado\Testing\sistem.lib-testproject\Libreria\obj\Debug\net5.0\Libreria.RazorTargetAssemblyInfo.cs
+C:\Users\Omar Salomé\Documents\sql\H2O\BD procedimeineto de almacenado\Testing\sistem.lib-testproject\Libreria\obj\Debug\net5.0\Libreria.Views.pdb
+C:\Users\Omar Salomé\Documents\sql\H2O\BD procedimeineto de almacenado\Testing\sistem.lib-testproject\Libreria\obj\Debug\net5.0\Libreria.csproj.CopyComplete
+C:\Users\Omar Salomé\Documents\sql\H2O\BD procedimeineto de almacenado\Testing\sistem.lib-testproject\Libreria\obj\Debug\net5.0\Libreria.dll
+C:\Users\Omar Salomé\Documents\sql\H2O\BD procedimeineto de almacenado\Testing\sistem.lib-testproject\Libreria\obj\Debug\net5.0\refint\Libreria.dll
+C:\Users\Omar Salomé\Documents\sql\H2O\BD procedimeineto de almacenado\Testing\sistem.lib-testproject\Libreria\obj\Debug\net5.0\Libreria.pdb
+C:\Users\Omar Salomé\Documents\sql\H2O\BD procedimeineto de almacenado\Testing\sistem.lib-testproject\Libreria\obj\Debug\net5.0\Libreria.genruntimeconfig.cache
+C:\Users\Omar Salomé\Documents\sql\H2O\BD procedimeineto de almacenado\Testing\sistem.lib-testproject\Libreria\obj\Debug\net5.0\ref\Libreria.dll

@@ -1,0 +1,209 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Omar Salomé\\Documents\\sql\\H2O\\BD procedimeineto de almacenado\\Testing\\sistem.lib-testproject\\Libreria\\Libreria.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Omar Salomé\\Documents\\sql\\H2O\\BD procedimeineto de almacenado\\Testing\\sistem.lib-testproject\\CAPA_DATOS\\CAPA_DATOS.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Omar Salomé\\Documents\\sql\\H2O\\BD procedimeineto de almacenado\\Testing\\sistem.lib-testproject\\CAPA_DATOS\\CAPA_DATOS.csproj",
+        "projectName": "CAPA_DATOS",
+        "projectPath": "C:\\Users\\Omar Salomé\\Documents\\sql\\H2O\\BD procedimeineto de almacenado\\Testing\\sistem.lib-testproject\\CAPA_DATOS\\CAPA_DATOS.csproj",
+        "packagesPath": "C:\\Users\\Omar Salomé\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Omar Salomé\\Documents\\sql\\H2O\\BD procedimeineto de almacenado\\Testing\\sistem.lib-testproject\\CAPA_DATOS\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Omar Salomé\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Omar Salomé\\Documents\\sql\\H2O\\BD procedimeineto de almacenado\\Testing\\sistem.lib-testproject\\CAPA_NEGOCIO\\CAPA_NEGOCIO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Omar Salomé\\Documents\\sql\\H2O\\BD procedimeineto de almacenado\\Testing\\sistem.lib-testproject\\CAPA_NEGOCIO\\CAPA_NEGOCIO.csproj",
+        "projectName": "CAPA_NEGOCIO",
+        "projectPath": "C:\\Users\\Omar Salomé\\Documents\\sql\\H2O\\BD procedimeineto de almacenado\\Testing\\sistem.lib-testproject\\CAPA_NEGOCIO\\CAPA_NEGOCIO.csproj",
+        "packagesPath": "C:\\Users\\Omar Salomé\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Omar Salomé\\Documents\\sql\\H2O\\BD procedimeineto de almacenado\\Testing\\sistem.lib-testproject\\CAPA_NEGOCIO\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Omar Salomé\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Omar Salomé\\Documents\\sql\\H2O\\BD procedimeineto de almacenado\\Testing\\sistem.lib-testproject\\CAPA_DATOS\\CAPA_DATOS.csproj": {
+                "projectPath": "C:\\Users\\Omar Salomé\\Documents\\sql\\H2O\\BD procedimeineto de almacenado\\Testing\\sistem.lib-testproject\\CAPA_DATOS\\CAPA_DATOS.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Omar Salomé\\Documents\\sql\\H2O\\BD procedimeineto de almacenado\\Testing\\sistem.lib-testproject\\Libreria\\Libreria.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Omar Salomé\\Documents\\sql\\H2O\\BD procedimeineto de almacenado\\Testing\\sistem.lib-testproject\\Libreria\\Libreria.csproj",
+        "projectName": "Libreria",
+        "projectPath": "C:\\Users\\Omar Salomé\\Documents\\sql\\H2O\\BD procedimeineto de almacenado\\Testing\\sistem.lib-testproject\\Libreria\\Libreria.csproj",
+        "packagesPath": "C:\\Users\\Omar Salomé\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Omar Salomé\\Documents\\sql\\H2O\\BD procedimeineto de almacenado\\Testing\\sistem.lib-testproject\\Libreria\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Omar Salomé\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Omar Salomé\\Documents\\sql\\H2O\\BD procedimeineto de almacenado\\Testing\\sistem.lib-testproject\\CAPA_NEGOCIO\\CAPA_NEGOCIO.csproj": {
+                "projectPath": "C:\\Users\\Omar Salomé\\Documents\\sql\\H2O\\BD procedimeineto de almacenado\\Testing\\sistem.lib-testproject\\CAPA_NEGOCIO\\CAPA_NEGOCIO.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.15, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.15, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[5.0.15, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.15, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "target": "Package",
+              "version": "[5.0.15, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

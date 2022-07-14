@@ -1,0 +1,94 @@
+﻿@page
+@model Libreria.Pages.Catalogos.StockViewModel
+@{
+    Layout = "_Layout";
+}
+<main class="main">
+
+    <section class="card_madre">
+
+        <div class="Encabezado">
+            <h1>
+                Bodegas
+            </h1>
+        </div>
+        <div class="contenedor_formulario">
+
+            <div>
+                <label> Identificador</label>
+                <input class="Input_formulario" type="number" id="IdentStk" placeholder="ID">
+            </div>
+            <div>
+                Id Producto
+                <select class="Input_formulario" id="TxtProd">
+                </select>
+            </div>
+            <div>
+                 Id Bodega
+                <select class="Input_formulario" id="TxtBod" >
+                </select>
+            </div>
+            <div>
+                 Id Compra
+                <select class="Input_formulario" id="TxtComp">
+                </select>
+            </div>
+            <div>
+                <label> Cantidad</label>
+                <input class="Input_formulario" type="number" id="TxtCan" placeholder="propiedad..">
+            </div>
+            <div>
+                Estado:
+                <select class="Input_formulario" id="TxtEstado">
+                    <option value="1">Activo</option>
+                    <option value="0">Inactivo</option>
+
+                </select>
+            </div>
+            <div>
+                <label> Prec Compra</label>
+                <input class="Input_formulario" type="number" id="TxtPCom" placeholder="propiedad..">
+            </div>
+            <div>
+                <label> Prec Venta</label>
+                <input class="Input_formulario" type="number" id="TxtPVen" placeholder="propiedad..">
+            </div>
+            <div>
+                <label> Descripcion</label>
+                <input class="Input_formulario" type="text" id="TxtDes" placeholder="propiedad..">
+            </div>
+
+            <div>
+                Condicion de prod
+                <select class="Input_formulario" id="TxtEstado">
+                    <option value="1">Bueno</option>
+                    <option value="0">Dañado</option>
+
+                </select>
+            </div>
+
+            <div>
+                <input type="button" class="btn btn-primary" id="BtnSave" value="Guardar">
+            </div>
+
+            <div>
+                <input class="BTN BTNCANCEL" type="button" id="" value="Cancelar">
+            </div>
+
+
+            <nav class="modal">
+                <nav>
+                </nav>
+
+                <table id="TableData" class="ContenedorTable">
+                    <thead>
+
+                    </thead>
+                    <tbody>
+                    </tbody>
+                </table>
+            </nav>
+        </div>
+    </section>
+</main>
+

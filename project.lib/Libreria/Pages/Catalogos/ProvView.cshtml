@@ -1,0 +1,133 @@
+﻿@page
+@model Libreria.Pages.Catalogos.ProvViewModel
+@{
+    Layout = "_Layout";
+}
+
+<main class="main">
+
+    <section class="card_madre">
+
+        <div class="Encabezado">
+            <h1>
+                Proveedores
+            </h1>
+        </div>
+        <div class="contenedor_formulario">
+
+            <div>
+                <label> Identificador</label>
+                <input class="Input_formulario" type="number" id="IdentProv" placeholder="ID">
+            </div>
+            <div>
+                <label> Nombre</label>
+                <input class="Input_formulario" type="text" id="TxtNombre" placeholder="name">
+            </div>
+            <div>
+                <label> Direcciones</label>
+                <input class="Input_formulario" type="text" id="TxtDir" placeholder="address">
+            </div>
+            <div>
+                <label> Telefono</label>
+                <input class="Input_formulario" type="tel" id="TxtTel" placeholder="cel">
+            </div>
+
+            <div>
+                Estado:
+                <select class="Input_formulario" id="TxtEstado">
+                    <option value="1">Activo</option>
+                    <option value="0">Inactivo</option>
+
+                </select>
+            </div>
+
+            <div>
+                <input type="button" class="btn btn-primary" id="BtnSave" value="Guardar">
+            </div>
+
+            <div>
+                <input class="BTN BTNCANCEL" type="button" id="" value="Cancelar">
+            </div>
+
+
+            <nav class="modal">
+                <nav>
+                </nav>
+
+                <table id="TableData" class="ContenedorTable">
+                    <thead>
+
+                    </thead>
+                    <tbody>
+                    </tbody>
+                </table>
+            </nav>
+
+
+           
+        </div>
+    </section>
+
+      
+</main>
+
+
+
+
+
+
+
+
+
+
+<script type="module">
+    import CreateTable from "../js/TableComponent.js";
+    const LoadData = async () => {
+        let url = "../api/Prov/GetProv";
+        let response = await fetch(url);
+        response = await response.json();
+        CreateTable(response, TableData, FunctionEdit);
+    }
+    const FunctionEdit = async (Item) => {
+        console.log(Item)
+        IdentProv.value = Item.id_Proveedor;
+        TxtNombre.value = Item.nombre;
+        TxtDir.value = Item.dirección;
+        TxtTel.value = Item.telefono;
+        TxtEstado.value = Item.estado;
+        
+    }
+    window.onload = () => {
+        BtnSave.onclick = async () => {
+            const ObjIns = {
+                id_Proveedor: (IdentProv.value == "" ? -1 : IdentProv.value),
+                nombre: TxtNombre.value,
+                dirección: TxtDir.value,
+                telefono: TxtTel.value,
+                estado: parseInt(TxtEstado.value),
+
+            }
+            let url = "../api/Prov/SaveProv";
+            let response = await fetch(url, {
+                method: 'POST',
+                headers: {
+                    'Content-type': 'application/json; charset-utf-8',
+                    'Accept': '*/*'
+                },
+                body: JSON.stringify(ObjIns)
+            });
+            response = await response.json();
+            if (response == true) {
+                LoadData();
+                IdentProv.value = "-1";
+                TxtNombre.value = "";
+                TxtDir.value = "";
+                TxtTel.value = "";
+                TxtEstado.value = 1;
+            }
+        }
+        LoadData();
+    }
+</script>
+
+

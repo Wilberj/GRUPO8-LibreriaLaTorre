@@ -1,0 +1,164 @@
+﻿@page
+@model Libreria.Pages.Catalogos.CompraDetViewModel
+@{
+    Layout = "_Layout";
+}
+
+<main class="main">
+
+    <section class="card_madre">
+
+        <div class="Encabezado">
+            <h1>
+                Detalle de compra
+            </h1>
+        </div>
+        <div class="contenedor_formulario">
+
+            <div>
+                <label> Identificador</label>
+                <input class="Input_formulario" type="number" id="IdentDComp" placeholder="ID Detalle">
+            </div>
+            <div>
+                Id Compra:
+                <select class="Input_formulario" id="IdCompra">
+                </select>
+            </div>
+            <div>
+                <label>Cantidad</label>
+                <input class="Input_formulario" type="number" id="TxtCantidad" placeholder="propiedad..">
+            </div>
+            <div>
+                <label>Precio de compra</label>
+                <input class="Input_formulario" type="number" id="TxtPreCompra" placeholder="propiedad..">
+            </div>
+            <div>
+                <label>Articulo</label>
+                <input class="Input_formulario" type="text" id="TxtArt" placeholder="propiedad..">
+            </div>
+            <div>
+                <label>SubTotal</label>
+                <input class="Input_formulario" type="number" id="TxtDSTotal" placeholder="...">
+            </div>
+            <div>
+                <label> Impuestos </label>
+                <input class="Input_formulario" type="number" id="TxtDIVA" placeholder="IVA">
+            </div>
+            <div>
+                <label> Descuento</label>
+                <input class="Input_formulario" type="number" id="TxtDDesc" placeholder=" % ">
+            </div>
+            <div>
+                <label> Total</label>
+                <input class="Input_formulario" type="number" id="TxtDTotal" placeholder="Total">
+            </div>
+            <div>
+                <input type="button" class="btn btn-primary" id="BtnSave" value="Guardar">
+            </div>
+
+
+            <nav class="modal">
+                <nav>
+                </nav>
+
+                <table id="TableData" class="ContenedorTable">
+                    <thead>
+
+                    </thead>
+                    <tbody>
+                    </tbody>
+                </table>
+            </nav>
+        </div>
+    </section>
+</main>
+
+<script type="module">
+    import CreateTable from "../js/TableComponent.js";
+    import CreateDropDown from "../js/DropDownComponent.js";
+    const LoadData = async () => {
+        let url = "../api/DetailComp/GetDetalle";
+        let response = await fetch(url);
+        response = await response.json();
+        CreateTable(response[0], TableData, FunctionEdit);
+        CreateDropDown(response[1], IdCompra, "id_Compra");
+
+    }
+
+    const FunctionEdit = async (Item) => {
+        console.log(Item);
+        IdentDComp.value = Item.id_DetalleCompra;
+        IdCompra.value = Item.id_Compra;
+        TxtCantidad.value = Item.cantidad_Compra;
+        TxtPreCompra.value = Item.precio_Compra;
+        TxtArt.value = Item.articulo;
+        TxtDSTotal.value = Item.subtotal_compra;
+        TxtDIVA.value = Item.iva;
+        TxtDDesc.value = Item.descuento;
+        TxtDTotal.value = Item.total_Compra;
+
+    }
+
+    window.onload = () => {
+        BtnSave.onclick = async () => {
+            let id;
+            if (!IdCompra.value) {
+                id = -1;
+            }
+            else {
+                id = IdCompra.value;
+            }
+            const ObjIns = {
+                id_DetalleCompra: id,
+                id_Compra: parseInt(IdCompra.value),
+                cantidad_Compra: TxtCantidad.value,
+                precio_Compra: TxtPreCompra.value,
+                articulo: TxtArt.value,
+                subtotal_Compra: TxtDSTotal.value,
+                iva: TxtDIVA.value,
+                descuento: TxtDDesc.value,
+                total: TxtDTotal.value,
+            }
+            let flag = true;
+            for (var prop in ObjIns) {
+                if (prop != "id_DetalleCompra" && prop != "estado" && prop != "id_Compra") {
+                    if (ObjIns[prop] == "") {
+                        flag = false;
+                        alert("la propiedad " + prop + " es requerida");
+                        break;
+                    }
+                }
+            }
+            if (!flag) {
+                return;
+            }
+            let url = "../api/DetailComp/SaveDetalle";
+            let response = await fetch(url, {
+                method: 'POST',
+                headers: {
+                    'Content-type': 'application/json; charset-utf-8',
+                    'Accept': '*/*'
+                },
+                body: JSON.stringify(ObjIns)
+            });
+            response = await response.json();
+            if (response == true) {
+                LoadData();
+                document.getElementById("TxtProv").length = 0;
+
+                IdentDComp.value = "-1";
+                IdCompra.value = 1;
+                TxtCantidad = "";
+                TxtPreCompra.value = "";
+                TxtArt.value = "";
+                TxtDSTotal.value = "";
+                TxtDIVA.value = "";
+                TxtDDesc.value = "";
+                TxtDTotal.value = "";
+
+            }
+        }
+        LoadData();
+    }
+
+</script>
